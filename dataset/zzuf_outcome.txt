@@ -1,0 +1,3540 @@
+_usr_bin_tred:2153	0:41.95	0
+_usr_bin_oggenc:62239	0:53.69	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:29084	0:00.17	1
+_usr_bin_shred:5037	7:05.35	0
+_usr_bin_vmtoolsd:58753	2:09.98	0
+_usr_bin_pmap:34179	0:43.39	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30560	0:00.12	1
+_usr_bin_lav2yuv:39347	0:57.43	0
+_usr_bin_codepage:41436	0:42.37	0
+_usr_bin_strings:40721	0:48.98	0
+_usr_bin_sort:20731	3:55.66	0
+_usr_bin_vmtoolsd:57996	2:31.96	0
+_usr_bin_nl:15468	0:41.94	0
+_usr_bin_unexpand:25289	0:41.37	0
+_usr_bin_pgmslice:46977	0:42.84	0
+_usr_bin_dpkg-statoverride:18252	0:45.18	0
+_usr_bin_lexgrog:54294	1:33.63	0
+_usr_bin_nl:14734	0:43.44	0
+_usr_bin_grub-mount:53298	1:04.55	0
+_usr_bin_sort:21106	0:50.05	0
+zzuf[s=121,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=390,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=489,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1158,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1654,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30694	0:05.04	1
+_usr_bin_pnmcolormap:16964	0:46.08	0
+_usr_bin_sort:20446	0:59.17	0
+_usr_bin_fc-cat:42198	2:40.96	0
+_usr_bin_dwp:60397	0:50.72	0
+_usr_bin_expand:22502	0:41.74	0
+_usr_bin_dircolors:43800	0:41.46	0
+_usr_bin_tee:5973	0:41.32	0
+zzuf[s=1780,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_du:11315	0:06.58	1
+zzuf[s=8868,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52880	0:04.96	1
+_usr_bin_sha256sum:101	0:57.71	0
+_usr_bin_dircolors:43872	0:43.62	0
+_usr_bin_uniq:19800	0:42.40	0
+_usr_bin_pdffonts:64537	3:04.08	0
+_usr_bin_metaflac:24029	0:44.99	0
+_usr_bin_pdftotext:1529	2:12.31	0
+_usr_bin_install:43033	0:47.77	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8836	0:04.54	1
+_usr_bin_metaflac:24893	0:45.27	0
+zzuf[s=198,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=81,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=534,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=886,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=948,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1206,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_localedef:28974	0:05.98	1
+_usr_bin_yuvcorrect_tune:36544	0:47.67	0
+_usr_bin_ginstall-info:29939	0:42.44	0
+_usr_bin_install:43023	0:47.96	0
+_usr_bin_unexpand:25442	0:41.54	0
+_usr_bin_sccmap:49776	0:46.10	0
+_usr_bin_head:45293	0:40.33	0
+_usr_bin_sccmap:50023	0:44.65	0
+_usr_bin_pbmreduce:44199	0:42.08	0
+_usr_bin_unexpand:25057	0:42.25	0
+_usr_bin_partx:48591	0:46.48	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28793	0:00.39	1
+_usr_bin_pgmslice:46834	0:43.16	0
+_usr_bin_patch:60921	0:56.25	0
+_usr_bin_pdfinfo:6557	2:14.96	0
+_usr_bin_grub-mount:52897	1:04.72	0
+_usr_bin_dwp:60403	0:51.18	0
+_usr_bin_unexpand:25029	0:40.83	0
+_usr_bin_pdfinfo:6441	2:09.97	0
+_usr_bin_dwp:60414	0:50.99	0
+zzuf[s=13322,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gv2gml:13790	0:07.10	1
+_usr_bin_partx:48410	0:45.34	0
+_usr_bin_md5sum:11927	0:41.66	0
+_usr_bin_lav2yuv:38942	0:57.08	0
+_usr_bin_dwp:60443	0:51.80	0
+_usr_bin_pnmcolormap:17035	0:43.54	0
+_usr_bin_gv2gml:13621	1:05.39	0
+_usr_bin_dircolors:43358	0:41.23	0
+_usr_bin_localedef:28765	0:41.32	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28789	0:00.46	1
+_usr_bin_shred:4437	1:59.77	0
+_usr_bin_lexgrog:54659	1:33.24	0
+_usr_bin_grub-glue-efi:7948	0:59.99	0
+_usr_bin_ginstall-info:29655	0:40.03	0
+zzuf[s=6,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=724,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2051,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2105,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2686,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31476	0:05.80	1
+_usr_bin_gv2gml:13681	1:05.14	0
+_usr_bin_pbmreduce:44406	0:42.72	0
+_usr_bin_file:27458	1:00.94	0
+_usr_bin_expand:22794	0:51.32	0
+_usr_bin_make:52346	0:44.76	0
+_usr_bin_ppmlabel:45093	0:43.42	0
+_usr_bin_dpkg:30457	0:52.68	0
+_usr_bin_uniq:19569	0:42.70	0
+_usr_bin_dpkg:30429	1:26.76	0
+_usr_bin_metaflac:24024	0:44.64	0
+_usr_bin_unexpand:25582	0:42.99	0
+_usr_bin_ginstall-info:30339	0:39.65	0
+_usr_bin_vmtoolsd:58098	2:20.52	0
+zzuf[s=11705,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61853	0:05.92	1
+_usr_bin_sccmap:49777	0:44.31	0
+_usr_bin_grub-mklayout:27017	1:02.59	0
+_usr_bin_ruby1.9.1:3033	5:44.01	0
+_usr_bin_lav2yuv:39225	0:57.45	0
+_usr_bin_pdfinfo:6899	2:11.51	0
+_usr_bin_ruby1.9.1:2281	9:10.98	0
+_usr_bin_sort:21205	0:53.99	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28562	0:02.27	1
+_usr_bin_ruby1.9.1:3059	5:41.72	0
+_usr_bin_dijkstra:50499	0:43.99	0
+_usr_bin_grub-mount:53205	1:03.13	0
+_usr_bin_nl:14841	0:42.85	0
+zzuf[s=73822,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52046	0:33.63	1
+_usr_bin_sccmap:49432	0:44.03	0
+_usr_bin_ppmntsc:52634	0:42.19	0
+_usr_bin_codepage:41569	0:40.58	0
+_usr_bin_grub-mklayout:26609	0:58.97	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30609	0:00.09	1
+_usr_bin_apt-sortpkgs:23533	1:43.55	0
+_usr_bin_sha256sum:338	0:41.94	0
+_usr_bin_lsattr:33662	0:44.71	0
+_usr_bin_grub-mount:53636	1:02.92	0
+_usr_bin_pbmreduce:44451	0:42.22	0
+_usr_bin_wget:21317	0:54.75	0
+_usr_bin_nsupdate:16577	3:55.36	0
+_usr_bin_lav2yuv:39454	1:01.19	0
+zzuf[s=13137,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52293	0:10.76	1
+_usr_bin_scriptreplay:13016	0:39.70	0
+_usr_bin_ginstall-info:30144	0:50.01	0
+_usr_bin_yuvcorrect_tune:36389	0:42.32	0
+_usr_bin_grub-file:59133	1:15.02	0
+_usr_bin_sccmap:49329	0:44.51	0
+_usr_bin_ginstall-info:29485	0:43.26	0
+_usr_bin_pdftotext:1950	2:10.30	0
+zzuf[s=70,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8300	0:00.81	1
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30612	0:00.99	1
+_usr_bin_lexgrog:53923	1:32.18	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28290	0:00.15	1
+_usr_bin_tee:5522	0:41.13	0
+_usr_bin_dijkstra:50523	0:50.73	0
+_usr_bin_dircolors:43729	0:41.79	0
+_usr_bin_pdfinfo:6532	2:09.17	0
+_usr_bin_dpkg-deb:48061	1:30.14	0
+_usr_bin_oggenc:62096	0:48.13	0
+_usr_bin_uniq:19850	0:42.94	0
+_usr_bin_fc-validate:63125	1:03.57	0
+_usr_bin_uniq:20007	0:42.32	0
+_usr_bin_dijkstra:50903	0:43.67	0
+_usr_bin_gv2gml:13573	1:05.20	0
+zzuf[s=33670,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8388	0:15.85	1
+_usr_bin_pdfinfo:7198	2:19.93	0
+_usr_bin_apt-sortpkgs:23561	1:37.95	0
+_usr_bin_lav2yuv:39629	0:57.03	0
+zzuf[s=103,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55975	0:00.19	1
+_usr_bin_scriptreplay:12477	0:39.73	0
+_usr_bin_rawtopgm:33739	0:42.75	0
+_usr_bin_ruby1.9.1:2249	5:43.30	0
+_usr_bin_ppmntsc:52680	0:43.09	0
+_usr_bin_dpkg-deb:47445	0:44.90	0
+_usr_bin_md5sum:11799	0:41.90	0
+_usr_bin_sort:20986	0:52.17	0
+zzuf[s=10,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56678	0:00.83	1
+_usr_bin_gvpr:35022	0:46.07	0
+_usr_bin_ruby1.9.1:2693	5:44.00	0
+zzuf[s=95185,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51939	0:45.17	1
+_usr_bin_sha224sum:9832	0:40.91	0
+_usr_bin_dpkg-statoverride:18243	0:44.95	0
+_usr_bin_grub-mklayout:27127	1:00.28	0
+zzuf[s=8726,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61625	0:04.11	1
+_usr_bin_sha224sum:9131	0:41.94	0
+_usr_bin_gvpr:35063	0:45.87	0
+_usr_bin_scriptreplay:13041	0:39.62	0
+_usr_bin_head:45915	0:40.34	0
+_usr_bin_ruby1.9.1:2166	5:42.73	0
+_usr_bin_rawtopgm:33711	0:48.97	0
+_usr_bin_lav2yuv:39662	0:59.02	0
+_usr_bin_dot:55729	2:01.18	0
+_usr_bin_scriptreplay:12886	0:40.28	0
+_usr_bin_sort:21061	0:50.52	0
+_usr_bin_head:46155	1:17.99	0
+_usr_bin_codepage:41282	0:41.34	0
+_usr_bin_pdffonts:64489	2:14.65	0
+_usr_bin_dpkg-deb:47329	1:31.06	0
+_usr_bin_lexgrog:54731	1:32.21	0
+_usr_bin_md5sum:11790	0:42.61	0
+_usr_bin_strings:40813	0:49.03	0
+_usr_bin_fc-cat:42440	2:34.74	0
+_usr_bin_pnmcolormap:17195	0:43.31	0
+_usr_bin_dwp:60657	0:55.99	0
+_usr_bin_strings:40319	0:51.71	0
+_usr_bin_partx:48724	0:44.67	0
+_usr_bin_grub-glue-efi:7427	0:59.60	0
+_usr_bin_pdfimages:37011	2:15.99	0
+_usr_bin_vmtoolsd:58287	2:31.16	0
+_usr_bin_strings:40069	0:52.32	0
+_usr_bin_dot:55203	2:05.65	0
+_usr_bin_codepage:40962	1:08.38	0
+_usr_bin_pnmcolormap:17131	0:42.74	0
+_usr_bin_sha224sum:9116	0:41.74	0
+_usr_bin_pgmslice:47064	0:42.22	0
+_usr_bin_unexpand:25558	0:40.94	0
+_usr_bin_tee:5922	0:42.55	0
+_usr_bin_md5sum:12185	1:13.93	0
+_usr_bin_pnmcolormap:16987	0:43.83	0
+_usr_bin_pdfimages:37272	2:11.45	0
+_usr_bin_pdftotext:1638	2:16.99	0
+_usr_bin_grub-mklayout:26436	1:00.02	0
+_usr_bin_uniq:19489	0:42.23	0
+_usr_bin_dijkstra:50241	1:05.84	0
+zzuf[s=4,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=9,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61847	0:00.82	1
+_usr_bin_dwp:60005	0:50.79	0
+_usr_bin_pbmtomda:33003	0:42.36	0
+_usr_bin_partx:48730	0:44.00	0
+_usr_bin_pdfinfo:6719	2:14.88	0
+_usr_bin_sort:20770	0:45.17	0
+_usr_bin_yuvcorrect_tune:36349	0:42.70	0
+_usr_bin_pdftotext:1879	2:10.70	0
+_usr_bin_shred:4453	1:59.64	0
+_usr_bin_file:27582	1:43.88	0
+_usr_bin_pdfinfo:7039	2:14.47	0
+_usr_bin_md5sum:11511	0:41.62	0
+zzuf[s=9860,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18750	0:04.64	1
+_usr_bin_dijkstra:50622	0:48.11	0
+_usr_bin_grub-mount:53589	1:04.00	0
+_usr_bin_grub-glue-efi:7911	0:59.32	0
+_usr_bin_sha224sum:9616	0:43.53	0
+zzuf[s=1017,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8899	0:00.58	1
+_usr_bin_dircolors:43974	0:43.54	0
+_usr_bin_codepage:41788	1:09.97	0
+_usr_bin_pdftotext:1490	2:09.01	0
+_usr_bin_gv2gml:13815	0:44.99	0
+_usr_bin_shred:4708	2:30.31	0
+_usr_bin_pbmreduce:44165	0:44.84	0
+_usr_bin_pnmcolormap:17613	0:42.99	0
+_usr_bin_head:45518	0:40.98	0
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=697,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=804,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=961,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1201,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1353,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30812	0:04.88	1
+_usr_bin_apt-sortpkgs:23692	1:40.18	0
+_usr_bin_vmtoolsd:58614	2:20.62	0
+_usr_bin_sort:20705	0:45.16	0
+_usr_bin_gpgsplit:19039	0:51.99	0
+_usr_bin_scriptreplay:12457	0:39.69	0
+zzuf[s=232,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55860	0:00.29	1
+_usr_bin_du:10598	0:49.00	0
+_usr_bin_apt-sortpkgs:23761	1:38.98	0
+_usr_bin_ppmntsc:52531	0:42.09	0
+_usr_bin_head:45969	0:41.49	0
+_usr_bin_gvmap:36249	0:47.56	0
+zzuf[s=9460,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8817	0:04.82	1
+_usr_bin_unexpand:25330	0:40.73	0
+zzuf[s=174,r=0.001:0.5]: signal 7 (SIGBUS)
+zzuf[s=175,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56509	0:00.25	1
+zzuf[s=57206,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:34725	0:30.00	1
+_usr_bin_ginstall-info:29895	0:43.99	0
+_usr_bin_unexpand:25539	0:41.18	0
+_usr_bin_sha256sum:834	0:42.86	0
+_usr_bin_pdftotext:1466	2:14.94	0
+_usr_bin_pgmslice:47175	0:42.57	0
+_usr_bin_grub-file:59200	1:15.47	0
+_usr_bin_expand:22559	0:41.31	0
+_usr_bin_grub-mount:53552	1:04.07	0
+_usr_bin_sort:21173	0:57.41	0
+_usr_bin_dwp:60129	0:51.13	0
+_usr_bin_dpkg-query:26192	0:45.80	0
+_usr_bin_apt-mark:10301	1:45.41	0
+_usr_bin_pnmcolormap:17402	0:42.96	0
+_usr_bin_strings:39984	0:49.32	0
+_usr_bin_oggenc:62047	0:55.59	0
+_usr_bin_head:46160	0:41.85	0
+zzuf[s=32118,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18650	0:13.84	1
+zzuf[s=98398,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:34807	0:47.76	1
+_usr_bin_dpkg-deb:48076	1:30.75	0
+_usr_bin_grub-mklayout:26525	1:52.10	0
+_usr_bin_grub-mklayout:26781	0:59.54	0
+_usr_bin_pic:6367	1:00.94	0
+_usr_bin_ruby1.9.1:2293	9:09.00	0
+_usr_bin_dot:55771	2:05.04	0
+_usr_bin_dot:55058	2:02.59	0
+_usr_bin_md5sum:12043	0:41.68	0
+_usr_bin_pbmreduce:44844	0:45.03	0
+_usr_bin_gv2gml:13725	0:47.61	0
+_usr_bin_gv2gml:13743	0:45.72	0
+_usr_bin_grub-mklayout:26337	0:59.32	0
+_usr_bin_pdfimages:37131	2:15.99	0
+_usr_bin_dircolors:43805	0:43.99	0
+_usr_bin_dwp:60504	0:51.00	0
+_usr_bin_pdfimages:37529	2:30.25	0
+zzuf[s=65110,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9063	6:23.73	1
+_usr_bin_fc-cat:42389	2:35.99	0
+_usr_bin_pnmcolormap:17062	0:45.31	0
+_usr_bin_tee:5551	0:40.83	0
+_usr_bin_pdfinfo:6958	2:10.17	0
+_usr_bin_grub-mount:53377	1:05.81	0
+_usr_bin_pdffonts:64529	2:14.84	0
+_usr_bin_sccmap:49908	0:46.15	0
+_usr_bin_make:52373	0:44.84	0
+_usr_bin_nl:15477	3:13.99	0
+_usr_bin_dot:55587	2:01.99	0
+_usr_bin_vmtoolsd:58724	2:07.99	0
+_usr_bin_pgmslice:46427	0:42.48	0
+_usr_bin_dwp:59875	0:55.54	0
+zzuf[s=290,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56436	0:00.34	1
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:29186	0:00.58	1
+_usr_bin_pdftotext:1748	2:15.28	0
+_usr_bin_pdffonts:65021	2:18.74	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59509	0:00.10	1
+_usr_bin_file:27880	0:45.89	0
+_usr_bin_pdftotext:2000	2:13.14	0
+_usr_bin_gvmap:36024	0:49.84	0
+_usr_bin_metaflac:24592	0:45.02	0
+_usr_bin_expand:22705	0:41.96	0
+_usr_bin_scriptreplay:13298	0:38.55	0
+_usr_bin_gvmap:35547	0:45.43	0
+_usr_bin_sccmap:50169	0:44.43	0
+_usr_bin_dpkg-query:26195	0:45.91	0
+_usr_bin_pdffonts:64934	2:10.80	0
+_usr_bin_strings:40303	0:51.81	0
+_usr_bin_sha256sum:36	0:41.94	0
+_usr_bin_dijkstra:51057	0:48.07	0
+_usr_bin_md5sum:11539	0:41.84	0
+_usr_bin_sha256sum:49	0:42.23	0
+_usr_bin_dpkg:30482	0:53.47	0
+_usr_bin_partx:48523	0:44.02	0
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59452	0:00.38	1
+_usr_bin_yuvcorrect_tune:36598	0:45.02	0
+_usr_bin_partx:48562	0:44.05	0
+_usr_bin_dot:55376	2:01.16	0
+_usr_bin_pbmreduce:44870	0:43.23	0
+_usr_bin_dircolors:43383	0:44.61	0
+_usr_bin_localedef:28440	0:40.89	0
+_usr_bin_dircolors:43667	0:41.23	0
+_usr_bin_ruby1.9.1:2279	9:09.79	0
+_usr_bin_gvpr:35105	0:46.52	0
+_usr_bin_gxl2gv:41885	0:45.63	0
+_usr_bin_pnmcolormap:17122	0:43.46	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52795	0:04.54	1
+_usr_bin_nl:14956	0:41.88	0
+_usr_bin_oggenc:62653	0:48.92	0
+_usr_bin_pdfimages:37519	2:12.00	0
+_usr_bin_oggenc:62175	0:48.99	0
+_usr_bin_gvpr:34684	0:47.01	0
+_usr_bin_gvpr:34366	0:43.99	0
+_usr_bin_sha224sum:9647	0:42.86	0
+_usr_bin_codepage:41381	0:45.02	0
+_usr_bin_fc-cat:42669	2:35.67	0
+_usr_bin_gpgsplit:19099	1:03.40	0
+_usr_bin_partx:48616	0:46.00	0
+_usr_bin_dircolors:43830	0:41.07	0
+_usr_bin_pgmslice:47025	0:43.40	0
+_usr_bin_pdftotext:1577	2:16.50	0
+_usr_bin_pgrep:64354	0:43.05	0
+_usr_bin_sccmap:49313	0:44.55	0
+_usr_bin_dircolors:43123	0:41.74	0
+_usr_bin_sha256sum:718	0:41.51	0
+_usr_bin_vmtoolsd:58446	2:20.76	0
+_usr_bin_pdfinfo:7088	2:14.72	0
+_usr_bin_pnmcolormap:16933	0:43.09	0
+_usr_bin_shred:4820	2:07.88	0
+zzuf[s=440,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=680,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1459,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1523,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1854,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1989,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31529	0:05.67	1
+_usr_bin_ruby1.9.1:2904	5:41.98	0
+_usr_bin_pbmreduce:44673	0:43.25	0
+_usr_bin_ginstall-info:29935	0:42.31	0
+_usr_bin_shred:4434	2:01.57	0
+_usr_bin_pgmslice:47195	0:42.84	0
+_usr_bin_tee:5712	0:41.64	0
+_usr_bin_dpkg-statoverride:17844	0:45.03	0
+_usr_bin_gvpr:34736	0:45.91	0
+_usr_bin_patch:61719	0:57.03	0
+_usr_bin_metaflac:24319	0:45.85	0
+_usr_bin_lav2yuv:39504	1:01.13	0
+_usr_bin_lexgrog:54357	2:57.36	0
+_usr_bin_lzmainfo:56887	0:42.10	0
+_usr_bin_dircolors:43987	0:42.89	0
+_usr_bin_dircolors:43771	1:40.99	0
+_usr_bin_head:45973	0:41.43	0
+zzuf[s=8,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=17,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=25,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=33,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=4,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22935	0:34.73	1
+_usr_bin_ginstall-info:29374	0:38.54	0
+_usr_bin_md5sum:11583	0:41.50	0
+_usr_bin_dpkg-statoverride:17962	0:45.10	0
+_usr_bin_md5sum:11589	0:42.23	0
+_usr_bin_yuvcorrect_tune:36687	0:42.84	0
+_usr_bin_make:52286	1:11.57	0
+_usr_bin_make:51660	0:46.45	0
+_usr_bin_shred:4455	1:58.40	0
+_usr_bin_nl:15369	0:42.33	0
+_usr_bin_shred:4848	2:07.66	0
+_usr_bin_pdffonts:65249	2:13.14	0
+_usr_bin_lexgrog:54530	1:30.99	0
+_usr_bin_grub-mount:53440	1:03.13	0
+_usr_bin_dwp:60112	0:50.86	0
+_usr_bin_dijkstra:50890	0:43.77	0
+_usr_bin_patch:61023	0:56.62	0
+_usr_bin_gvpr:34641	0:45.28	0
+_usr_bin_tee:5804	0:41.47	0
+_usr_bin_gvgen:37854	0:39.62	0
+zzuf[s=17316,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-mark:10387	0:18.31	1
+_usr_bin_tee:5464	0:41.09	0
+zzuf[s=28,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_tic:31018	0:00.75	1
+_usr_bin_pnmcolormap:17251	0:43.23	0
+zzuf[s=292,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:19254	0:00.28	1
+_usr_bin_sha224sum:9480	0:42.20	0
+zzuf[s=449,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=697,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1176,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1745,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31387	0:05.31	1
+_usr_bin_pdftotext:1459	2:14.99	0
+zzuf[s=2169,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61462	0:01.08	1
+_usr_bin_gvmap:35405	0:45.57	0
+_usr_bin_pnmcolormap:17573	0:42.57	0
+_usr_bin_tee:5434	0:41.31	0
+_usr_bin_pbmreduce:44745	0:42.35	0
+_usr_bin_pbmreduce:44717	0:42.56	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8341	0:04.42	1
+_usr_bin_wget:21418	1:00.09	0
+_usr_bin_dpkg:30450	0:52.75	0
+_usr_bin_shred:4764	2:26.40	0
+_usr_bin_strings:40656	0:50.06	0
+_usr_bin_uniq:20241	3:08.77	0
+_usr_bin_oggenc:62742	0:48.00	0
+_usr_bin_pdffonts:64971	2:22.12	0
+zzuf[s=1617,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23840	0:01.86	1
+_usr_bin_file:28096	1:12.42	0
+_usr_bin_dot:55691	2:00.83	0
+_usr_bin_pgmslice:47246	0:45.13	0
+_usr_bin_expand:22786	0:40.78	0
+_usr_bin_grub-mklayout:26938	1:01.82	0
+_usr_bin_pgmslice:47147	0:44.84	0
+_usr_bin_pdftotext:1427	2:15.15	0
+_usr_bin_install:42905	0:47.39	0
+_usr_bin_sccmap:49928	0:44.00	0
+_usr_bin_grub-glue-efi:7963	0:59.59	0
+_usr_bin_apt-mark:10179	1:44.49	0
+_usr_bin_lexgrog:54694	7:31.49	0
+_usr_bin_make:51546	0:46.82	0
+_usr_bin_gvmap:35675	0:46.17	0
+zzuf[s=30553,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51916	0:14.48	1
+_usr_bin_dpkg-deb:47697	1:31.54	0
+_usr_bin_grub-file:59358	1:16.17	0
+_usr_bin_nl:15337	0:42.03	0
+_usr_bin_du:10830	0:49.02	0
+_usr_bin_lav2yuv:39672	0:59.15	0
+_usr_bin_dijkstra:50927	0:51.74	0
+_usr_bin_dijkstra:50919	0:44.84	0
+_usr_bin_fc-validate:63788	1:05.79	0
+_usr_bin_localedef:28638	0:41.31	0
+_usr_bin_ruby1.9.1:2225	5:45.00	0
+_usr_bin_ruby1.9.1:3060	5:43.88	0
+_usr_bin_md5sum:12330	0:41.02	0
+_usr_bin_dwp:60423	0:51.31	0
+_usr_bin_dpkg-query:25964	0:45.94	0
+_usr_bin_dircolors:43494	0:44.16	0
+_usr_bin_metaflac:24270	0:47.56	0
+_usr_bin_pbmreduce:44275	0:42.36	0
+_usr_bin_pdffonts:65022	2:12.17	0
+_usr_bin_head:46010	0:40.98	0
+_usr_bin_grub-mount:53495	1:04.90	0
+_usr_bin_gv2gml:13853	0:50.54	0
+_usr_bin_pbmreduce:44221	0:42.09	0
+_usr_bin_dpkg-query:26098	0:46.89	0
+_usr_bin_grub-mklayout:26810	0:59.35	0
+_usr_bin_install:42992	0:47.64	0
+_usr_bin_pdfimages:37480	2:15.03	0
+_usr_bin_sccmap:50163	0:44.96	0
+_usr_bin_dot:54996	2:01.99	0
+_usr_bin_grub-mklayout:27170	1:00.00	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30549	0:00.15	1
+_usr_bin_grub-file:59284	1:15.48	0
+_usr_bin_oggenc:62523	0:49.45	0
+zzuf[s=7076,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8683	0:03.51	1
+_usr_bin_dijkstra:50573	0:46.06	0
+_usr_bin_codepage:41501	0:40.82	0
+_usr_bin_grub-file:59241	1:15.64	0
+zzuf[s=10278,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=18782,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_du:11347	0:15.95	1
+_usr_bin_lav2yuv:39776	0:57.87	0
+_usr_bin_sha224sum:9888	0:42.13	0
+_usr_bin_yuvcorrect_tune:36699	0:42.53	0
+_usr_bin_grub-file:59169	1:15.88	0
+_usr_bin_tee:6246	0:41.48	0
+zzuf[s=90,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56697	0:00.18	1
+_usr_bin_dircolors:43297	0:41.56	0
+_usr_bin_ginstall-info:30337	0:39.32	0
+zzuf[s=1302,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52096	0:00.71	1
+_usr_bin_ppmhist:1049	0:41.88	0
+zzuf[s=1184,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56441	0:01.24	1
+_usr_bin_pbmreduce:44417	0:42.14	0
+_usr_bin_pdfinfo:7200	2:11.94	0
+_usr_bin_tee:5856	0:41.16	0
+_usr_bin_pnmcolormap:16939	0:43.66	0
+_usr_bin_md5sum:12442	0:41.75	0
+_usr_bin_du:10640	0:49.02	0
+_usr_bin_shred:4805	2:19.80	0
+_usr_bin_codepage:41656	0:41.27	0
+_usr_bin_patch:60980	0:57.67	0
+_usr_bin_partx:48501	0:44.52	0
+_usr_bin_dpkg-query:26149	0:46.32	0
+_usr_bin_gvmap:35423	0:45.51	0
+_usr_bin_gv2gml:13686	1:04.41	0
+_usr_bin_grub-mount:53375	1:05.59	0
+_usr_bin_patch:61192	0:42.30	0
+_usr_bin_metaflac:24064	0:45.31	0
+_usr_bin_pbmtomda:33193	0:42.52	0
+_usr_bin_pgrep:64210	0:42.78	0
+_usr_bin_pdftotext:1319	2:14.20	0
+_usr_bin_dwp:60027	0:50.83	0
+_usr_bin_oggenc:62000	0:55.40	0
+_usr_bin_du:11379	0:48.75	0
+zzuf[s=10953,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18811	0:06.05	1
+zzuf[s=577,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18725	0:00.35	1
+_usr_bin_pdftotext:1222	2:12.57	0
+_usr_bin_grub-mount:53498	1:04.99	0
+_usr_bin_tee:5763	0:40.99	0
+zzuf[s=3606,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:19221	0:01.70	1
+_usr_bin_sha224sum:9857	0:41.80	0
+_usr_bin_md5sum:11553	0:41.79	0
+_usr_bin_pgmslice:46631	0:43.55	0
+_usr_bin_lav2yuv:38973	0:58.96	0
+zzuf[s=38,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22498	0:47.86	1
+_usr_bin_fc-cat:42677	2:35.29	0
+_usr_bin_tee:6097	0:41.51	0
+_usr_bin_install:43080	0:47.47	0
+_usr_bin_dpkg-query:26021	0:45.88	0
+_usr_bin_codepage:41279	0:42.07	0
+_usr_bin_tee:5355	0:41.00	0
+zzuf[s=24753,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:34742	0:14.53	1
+_usr_bin_vmtoolsd:58289	2:31.61	0
+_usr_bin_dircolors:43656	0:41.88	0
+_usr_bin_grub-mount:52993	1:03.99	0
+_usr_bin_sha256sum:411	0:42.01	0
+_usr_bin_dircolors:43972	1:18.97	0
+zzuf[s=1265,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61616	0:00.72	1
+_usr_bin_ruby1.9.1:2791	5:45.32	0
+_usr_bin_sha256sum:204	0:56.95	0
+_usr_bin_vmtoolsd:58266	2:20.97	0
+_usr_bin_partx:48756	0:45.06	0
+_usr_bin_ruby1.9.1:2921	5:42.92	0
+_usr_bin_dwp:60524	0:55.99	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28942	0:00.12	1
+_usr_bin_shred:4277	0:43.10	0
+zzuf[s=62,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21558	0:04.71	1
+_usr_bin_lexgrog:54376	1:35.46	0
+_usr_bin_tee:5825	0:41.71	0
+_usr_bin_dircolors:43480	0:43.86	0
+_usr_bin_file:27260	1:04.91	0
+_usr_bin_dwp:60063	0:52.67	0
+_usr_bin_md5sum:12250	0:45.16	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8945	0:04.67	1
+_usr_bin_sort:20752	0:45.50	0
+_usr_bin_sccmap:49439	0:45.06	0
+_usr_bin_metaflac:24159	0:44.85	0
+_usr_bin_md5sum:11989	1:14.14	0
+_usr_bin_cksum:60886	0:40.44	0
+_usr_bin_fc-validate:63255	0:54.62	0
+_usr_bin_dwp:60436	0:55.71	0
+_usr_bin_dpkg-deb:48020	1:31.65	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28758	0:01.55	1
+zzuf[s=577,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=616,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=833,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2193,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31538	0:05.22	1
+_usr_bin_pgmslice:47059	0:42.62	0
+_usr_bin_pbmtomda:33391	0:41.62	0
+_usr_bin_sccmap:49734	0:45.32	0
+_usr_bin_scriptreplay:12755	0:40.67	0
+_usr_bin_grub-glue-efi:7432	0:59.22	0
+_usr_bin_pgrep:64160	0:43.27	0
+zzuf[s=73,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:19237	0:00.14	1
+_usr_bin_dircolors:43289	0:42.85	0
+_usr_bin_ruby1.9.1:2403	5:43.96	0
+_usr_bin_grub-file:59698	1:15.65	0
+_usr_bin_vmtoolsd:57964	2:32.37	0
+zzuf[s=1651,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31609	0:10.99	1
+_usr_bin_dircolors:43864	1:14.07	0
+_usr_bin_dpkg:30436	1:27.55	0
+_usr_bin_ruby1.9.1:2758	5:44.36	0
+_usr_bin_scriptreplay:13176	0:39.99	0
+_usr_bin_grub-file:59636	1:15.44	0
+_usr_bin_partx:49034	0:44.60	0
+_usr_bin_grub-glue-efi:7557	0:59.95	0
+_usr_bin_grotty:16767	0:58.31	0
+_usr_bin_wget:21400	0:54.73	0
+_usr_bin_sccmap:50127	0:44.41	0
+_usr_bin_oggenc:62372	0:48.52	0
+_usr_bin_pdftotext:1168	2:15.99	0
+zzuf[s=212,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=228,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=718,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1491,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1505,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1569,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31521	0:06.02	1
+_usr_bin_pbmtomda:32895	0:43.95	0
+_usr_bin_sha256sum:692	0:44.65	0
+_usr_bin_pbmreduce:44864	0:42.61	0
+_usr_bin_apt-mark:10161	1:43.87	0
+_usr_bin_pbmreduce:44393	0:43.70	0
+_usr_bin_expand:23242	0:41.20	0
+_usr_bin_pdfimages:37074	2:15.10	0
+_usr_bin_dot:54866	2:01.93	0
+_usr_bin_gvpr:35011	0:46.68	0
+_usr_bin_lav2yuv:39250	0:56.99	0
+_usr_bin_vmtoolsd:58501	2:14.22	0
+zzuf[s=7,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56645	0:00.27	1
+zzuf[s=9460,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8523	0:04.71	1
+_usr_bin_md5sum:11891	1:14.23	0
+_usr_bin_shred:4829	2:08.38	0
+_usr_bin_nsupdate:16367	4:24.37	0
+_usr_bin_grub-mklayout:27162	1:00.86	0
+_usr_bin_lsattr:33577	0:45.11	0
+_usr_bin_file:27935	0:48.14	0
+_usr_bin_shred:4326	2:09.76	0
+_usr_bin_pdfinfo:6529	2:14.26	0
+zzuf[s=28201,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51640	0:13.21	1
+_usr_bin_metaflac:24387	0:46.71	0
+_usr_bin_apt-sortpkgs:23788	1:43.98	0
+_usr_bin_codepage:41431	0:41.49	0
+_usr_bin_sha224sum:9628	0:43.39	0
+_usr_bin_dwp:60312	0:51.04	0
+_usr_bin_grub-glue-efi:7962	1:00.49	0
+_usr_bin_ld.gold:56219	1:19.41	0
+_usr_bin_partx:48786	0:44.03	0
+_usr_bin_sha256sum:122	0:42.75	0
+_usr_bin_fc-validate:63221	1:05.24	0
+_usr_bin_dijkstra:50409	0:44.95	0
+_usr_bin_oggenc:62577	0:52.49	0
+_usr_bin_pbmreduce:44296	0:42.53	0
+_usr_bin_vmtoolsd:58814	2:07.99	0
+_usr_bin_gvpr:34397	0:43.99	0
+_usr_bin_dwp:59906	0:50.99	0
+_usr_bin_sccmap:49547	1:04.47	0
+zzuf[s=96,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56124	0:00.18	1
+_usr_bin_grub-file:58932	1:16.09	0
+_usr_bin_pbmtomda:32785	0:44.24	0
+zzuf[s=105,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=40,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=102,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=169,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=113,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=227,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:23007	0:35.99	1
+_usr_bin_patch:61759	0:57.26	0
+_usr_bin_gvpr:34768	0:45.85	0
+_usr_bin_sccmap:50051	0:44.35	0
+_usr_bin_dwp:60226	0:52.73	0
+_usr_bin_head:45925	0:42.89	0
+zzuf[s=10025,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51941	0:05.62	1
+_usr_bin_nl:14876	0:41.74	0
+_usr_bin_grub-file:59579	1:19.04	0
+_usr_bin_sha256sum:522	0:41.59	0
+zzuf[s=463,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55881	0:00.47	1
+_usr_bin_dwp:60748	0:51.52	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28617	0:00.44	1
+_usr_bin_partx:49096	0:45.04	0
+_usr_bin_partx:48889	0:45.79	0
+_usr_bin_sccmap:49268	0:46.39	0
+_usr_bin_scriptreplay:12701	0:39.83	0
+_usr_bin_shred:4847	2:09.28	0
+_usr_bin_shred:4183	2:00.07	0
+_usr_bin_md5sum:12280	0:47.97	0
+_usr_bin_md5sum:11678	0:42.48	0
+_usr_bin_pgmslice:47117	0:42.38	0
+_usr_bin_vmtoolsd:58016	2:31.58	0
+_usr_bin_metaflac:24788	0:45.00	0
+_usr_bin_wget:21356	0:56.82	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9109	0:00.67	1
+_usr_bin_strings:40455	0:49.00	0
+_usr_bin_lav2yuv:39458	0:55.02	0
+_usr_bin_strings:40394	0:50.15	0
+_usr_bin_apt-mark:10296	1:47.13	0
+zzuf[s=947,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1731,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2039,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2686,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30778	0:04.91	1
+_usr_bin_gvpr:34386	0:44.21	0
+_usr_bin_shred:4377	2:11.26	0
+_usr_bin_dwp:59898	0:51.30	0
+_usr_bin_gvpr:35148	0:49.36	0
+_usr_bin_pbmreduce:44738	0:42.46	0
+zzuf[s=88774,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18950	0:38.71	1
+zzuf[s=161,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=357,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=392,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=562,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=567,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=682,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30847	0:03.96	1
+_usr_bin_ruby1.9.1:2586	5:43.55	0
+_usr_bin_apt-mark:10401	1:45.99	0
+_usr_bin_pbmtomda:33171	0:41.54	0
+_usr_bin_head:45335	0:40.39	0
+_usr_bin_sha224sum:9960	0:41.68	0
+_usr_bin_pic:6310	0:55.74	0
+_usr_bin_pdffonts:65146	2:11.10	0
+_usr_bin_tee:5540	0:41.12	0
+_usr_bin_du:10652	0:48.61	0
+zzuf[s=841,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_tic:31566	0:04.72	1
+_usr_bin_dot:55160	2:07.01	0
+_usr_bin_grub-mklayout:27036	1:01.10	0
+_usr_bin_lexgrog:54149	8:28.87	0
+_usr_bin_nl:15289	0:43.89	0
+_usr_bin_dot:55082	2:01.19	0
+_usr_bin_gvgen:37822	0:39.20	0
+_usr_bin_metaflac:24125	0:44.77	0
+_usr_bin_tee:5425	0:41.00	0
+_usr_bin_sha224sum:9778	0:41.91	0
+_usr_bin_sort:20862	0:51.36	0
+zzuf[s=70,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56547	0:00.17	1
+zzuf[s=32313,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52108	0:15.42	1
+_usr_bin_dircolors:43427	0:47.03	0
+_usr_bin_pdffonts:64851	2:11.98	0
+_usr_bin_pdftotext:1655	2:19.27	0
+_usr_bin_oggenc:62508	0:48.72	0
+_usr_bin_dircolors:43907	0:41.52	0
+_usr_bin_pbmreduce:44152	0:42.47	0
+_usr_bin_ginstall-info:30129	1:28.99	0
+zzuf[s=82,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59037	0:00.99	1
+_usr_bin_apt-get:33991	1:46.08	0
+_usr_bin_lexgrog:54035	1:30.91	0
+_usr_bin_dwp:60322	0:51.30	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:29131	0:00.18	1
+_usr_bin_du:10912	0:42.37	0
+_usr_bin_patch:61724	0:57.68	0
+_usr_bin_unexpand:25517	0:41.44	0
+_usr_bin_dpkg-query:26178	0:46.03	0
+_usr_bin_make:51833	0:46.27	0
+_usr_bin_nl:15424	0:42.01	0
+_usr_bin_sha256sum:889	0:43.24	0
+_usr_bin_sort:20665	0:45.72	0
+_usr_bin_pnmcolormap:17138	0:43.50	0
+_usr_bin_sort:20554	0:47.90	0
+_usr_bin_codepage:41721	1:07.71	0
+_usr_bin_uniq:19344	0:41.16	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28704	0:00.13	1
+_usr_bin_scriptreplay:12733	0:40.04	0
+_usr_bin_cksum:60875	0:40.25	0
+_usr_bin_vmtoolsd:58365	2:30.47	0
+_usr_bin_grub-mount:53702	1:03.48	0
+_usr_bin_pnmcolormap:17362	0:42.59	0
+_usr_bin_sha256sum:182	0:42.03	0
+_usr_bin_dijkstra:50427	0:48.30	0
+_usr_bin_partx:49007	0:45.00	0
+_usr_bin_yuvcorrect_tune:36509	0:59.37	0
+zzuf[s=40918,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52751	0:19.57	1
+_usr_bin_pngtopnm:45190	0:44.94	0
+_usr_bin_gv2gml:13587	1:04.88	0
+_usr_bin_pdfimages:37419	2:12.26	0
+_usr_bin_dpkg-deb:47489	0:44.95	0
+zzuf[s=1958,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9057	0:01.02	1
+_usr_bin_grub-file:59573	1:16.75	0
+_usr_bin_vmtoolsd:58475	2:08.28	0
+_usr_bin_apt-sortpkgs:23537	1:38.35	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8244	0:04.57	1
+_usr_bin_nl:15639	0:42.17	0
+_usr_bin_fc-validate:63835	0:55.87	0
+_usr_bin_pbmtomda:32931	0:41.65	0
+_usr_bin_vmtoolsd:58589	2:20.49	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8651	0:04.68	1
+_usr_bin_scriptreplay:13318	0:38.56	0
+_usr_bin_grub-glue-efi:7762	1:00.27	0
+_usr_bin_codepage:41219	0:40.83	0
+_usr_bin_pgrep:64426	0:42.96	0
+_usr_bin_pdffonts:64860	2:11.61	0
+_usr_bin_sha224sum:9824	0:42.81	0
+_usr_bin_expand:22377	0:42.25	0
+_usr_bin_md5sum:11696	0:46.01	0
+_usr_bin_scriptreplay:13173	0:39.96	0
+_usr_bin_md5sum:11639	0:41.46	0
+_usr_bin_gvpr:34266	0:48.82	0
+_usr_bin_grub-file:59193	1:15.63	0
+_usr_bin_uniq:19549	0:41.53	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:62874	0:00.14	1
+_usr_bin_patch:61722	0:56.90	0
+_usr_bin_du:11201	0:48.23	0
+_usr_bin_lav2yuv:39397	0:58.02	0
+_usr_bin_dircolors:43768	0:43.33	0
+_usr_bin_fc-cat:42196	2:36.69	0
+_usr_bin_strings:40553	0:49.52	0
+_usr_bin_gv2gml:13801	0:45.03	0
+_usr_bin_grub-file:59613	1:16.02	0
+zzuf[s=420,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18781	0:00.40	1
+_usr_bin_lav2yuv:38969	1:01.37	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52791	0:00.61	1
+_usr_bin_dwp:60319	0:50.99	0
+_usr_bin_ginstall-info:30235	0:42.30	0
+_usr_bin_ppmntsc:52528	0:42.15	0
+_usr_bin_head:46013	0:41.01	0
+_usr_bin_uniq:19297	0:41.34	0
+_usr_bin_grub-file:59049	1:15.93	0
+_usr_bin_tee:5738	0:41.27	0
+_usr_bin_metaflac:24930	0:45.07	0
+_usr_bin_pdftotext:1672	2:09.88	0
+_usr_bin_pnmcolormap:17614	0:44.14	0
+_usr_bin_md5sum:11521	0:41.29	0
+_usr_bin_lexgrog:54798	1:33.56	0
+_usr_bin_pdftotext:1998	2:14.83	0
+_usr_bin_md5sum:12419	0:46.23	0
+_usr_bin_file:27720	0:46.92	0
+zzuf[s=10118,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18792	0:05.50	1
+_usr_bin_fc-validate:63067	5:30.49	0
+zzuf[s=63,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=225,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=303,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=324,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=398,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=417,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31329	0:03.51	1
+zzuf[s=4100,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:51770	0:02.00	1
+zzuf[s=16116,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8386	0:07.84	1
+_usr_bin_partx:48942	0:43.99	0
+_usr_bin_apt-get:33848	1:43.65	0
+_usr_bin_lzmainfo:56824	0:42.87	0
+_usr_bin_codepage:41445	0:40.60	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8245	0:04.45	1
+_usr_bin_uniq:19487	0:42.39	0
+_usr_bin_fc-validate:63686	1:09.62	0
+_usr_bin_gvpr:35046	0:46.85	0
+_usr_bin_wget:21303	0:54.28	0
+_usr_bin_md5sum:11851	3:08.10	0
+_usr_bin_gvmap:35968	0:45.27	0
+_usr_bin_pbmtomda:32827	0:44.08	0
+_usr_bin_scriptreplay:12556	0:40.53	0
+_usr_bin_du:11403	1:33.04	0
+_usr_bin_vmtoolsd:58156	2:20.71	0
+_usr_bin_pbmreduce:44819	0:43.40	0
+_usr_bin_dpkg-query:26211	0:45.93	0
+_usr_bin_gv2gml:13802	0:44.72	0
+_usr_bin_make:52222	1:13.99	0
+_usr_bin_localedef:28652	0:41.36	0
+_usr_bin_fc-cat:41935	2:37.63	0
+_usr_bin_gvpr:34779	0:49.28	0
+_usr_bin_nsupdate:16338	4:23.70	0
+_usr_bin_md5sum:12274	0:42.35	0
+_usr_bin_grub-glue-efi:8035	0:59.64	0
+_usr_bin_fc-validate:63673	1:08.99	0
+_usr_bin_dot:55362	2:02.26	0
+_usr_bin_partx:48367	0:44.63	0
+_usr_bin_dot:55570	2:02.66	0
+_usr_bin_gv2gml:13598	1:04.02	0
+_usr_bin_apt-mark:10390	1:45.38	0
+_usr_bin_nl:15136	0:42.38	0
+_usr_bin_strings:40255	0:52.62	0
+_usr_bin_grub-mount:53571	1:05.72	0
+zzuf[s=0,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=5,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=4,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22920	0:33.61	1
+_usr_bin_gxl2gv:41817	0:46.41	0
+_usr_bin_ruby1.9.1:3112	5:45.24	0
+_usr_bin_ppmntsc:52520	0:42.66	0
+_usr_bin_vmtoolsd:58737	2:08.36	0
+_usr_bin_md5sum:12385	0:45.08	0
+_usr_bin_sort:20896	0:50.30	0
+_usr_bin_pdfimages:37055	2:11.63	0
+_usr_bin_shred:4444	2:02.22	0
+zzuf[s=3689,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22493	3:14.71	1
+_usr_bin_pnmcolormap:17766	0:42.39	0
+_usr_bin_dot:55774	2:00.77	0
+_usr_bin_wget:21330	1:21.05	0
+zzuf[s=13,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56514	0:00.27	1
+_usr_bin_pgmslice:46814	0:45.10	0
+_usr_bin_ginstall-info:30161	0:42.85	0
+_usr_bin_fc-validate:63069	1:02.05	0
+_usr_bin_oggenc:62391	0:50.92	0
+_usr_bin_pbmreduce:45003	0:42.89	0
+_usr_bin_partx:49058	0:44.07	0
+_usr_bin_dwp:60265	0:55.77	0
+_usr_bin_pnmcolormap:17577	0:43.02	0
+_usr_bin_sccmap:49878	0:49.39	0
+_usr_bin_md5sum:12211	0:42.13	0
+_usr_bin_md5sum:11654	0:41.31	0
+_usr_bin_pdftotext:1912	2:08.93	0
+_usr_bin_dpkg-query:26209	0:45.90	0
+_usr_bin_grub-file:59651	1:15.83	0
+_usr_bin_make:51583	0:46.81	0
+_usr_bin_dot:55434	2:08.58	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52693	0:00.27	1
+_usr_bin_grub-mklayout:26879	1:00.13	0
+_usr_bin_lav2yuv:39579	0:58.42	0
+_usr_bin_oggenc:62649	0:49.00	0
+_usr_bin_tee:5704	0:42.04	0
+_usr_bin_dpkg-statoverride:17994	0:44.90	0
+_usr_bin_expand:22647	10:44.04	0
+_usr_bin_pdffonts:64509	2:11.79	0
+_usr_bin_file:28051	0:44.57	0
+_usr_bin_ruby1.9.1:2990	5:43.62	0
+zzuf[s=0,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=7,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=12,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=10,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=13,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30964	0:03.18	1
+_usr_bin_unexpand:25673	1:17.80	0
+_usr_bin_vmtoolsd:58262	2:20.99	0
+_usr_bin_partx:48548	0:44.06	0
+_usr_bin_grub-mount:53855	1:05.92	0
+_usr_bin_grub-glue-efi:7748	0:59.09	0
+_usr_bin_dijkstra:50590	0:43.96	0
+_usr_bin_metaflac:24909	0:44.55	0
+_usr_bin_pbmtomda:32964	0:41.74	0
+_usr_bin_pgrep:64410	0:42.64	0
+_usr_bin_grub-glue-efi:7931	0:59.16	0
+_usr_bin_apt-mark:10111	1:45.12	0
+_usr_bin_scriptreplay:12652	0:40.68	0
+_usr_bin_ruby1.9.1:2343	9:12.99	0
+_usr_bin_vmtoolsd:58041	2:30.99	0
+_usr_bin_sccmap:49320	0:46.10	0
+_usr_bin_gvpr:35057	0:46.13	0
+zzuf[s=4969,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51661	0:02.44	1
+_usr_bin_ginstall-info:29402	0:38.51	0
+_usr_bin_pdftotext:1795	2:14.15	0
+_usr_bin_dijkstra:50641	0:44.33	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30555	0:00.30	1
+_usr_bin_gvmap:36146	0:49.27	0
+_usr_bin_pdftotext:2012	2:13.62	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30664	0:03.80	1
+_usr_bin_nsupdate:16380	4:24.28	0
+zzuf[s=8566,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8191	0:04.19	1
+_usr_bin_make:52369	0:44.79	0
+_usr_bin_dpkg-statoverride:18229	0:45.50	0
+_usr_bin_grub-file:59303	1:16.01	0
+_usr_bin_dijkstra:51092	0:44.84	0
+_usr_bin_codepage:41698	0:40.97	0
+zzuf[s=24902,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52688	0:11.78	1
+_usr_bin_install:42987	0:47.86	0
+_usr_bin_gvmap:35526	0:45.99	0
+zzuf[s=3188,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18592	0:01.61	1
+_usr_bin_expand:22574	0:41.06	0
+_usr_bin_lexgrog:54751	1:35.30	0
+_usr_bin_lexgrog:54020	2:43.99	0
+_usr_bin_gvmap:35734	0:45.41	0
+_usr_bin_gvmap:35979	0:49.89	0
+_usr_bin_pdfinfo:6580	2:12.11	0
+_usr_bin_grub-file:59140	1:24.07	0
+_usr_bin_wget:21390	1:01.48	0
+zzuf[s=3,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56087	0:00.16	1
+_usr_bin_tee:5988	0:41.82	0
+_usr_bin_apt-get:34026	1:42.99	0
+_usr_bin_unexpand:25694	0:40.73	0
+_usr_bin_pdfimages:37370	2:09.25	0
+_usr_bin_pdffonts:65418	2:12.66	0
+_usr_bin_ruby1.9.1:2572	5:38.33	0
+zzuf[s=20,r=0.001:0.5]: signal 7 (SIGBUS)
+zzuf[s=18,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56785	0:00.99	1
+_usr_bin_ppmntsc:52661	0:41.66	0
+_usr_bin_pbmreduce:44124	0:41.44	0
+_usr_bin_oggenc:62258	0:47.48	0
+_usr_bin_shred:5030	2:49.78	0
+_usr_bin_dircolors:44054	0:40.38	0
+_usr_bin_gvmap:35513	0:44.13	0
+_usr_bin_scriptreplay:12743	0:39.45	0
+_usr_bin_dwp:60321	0:50.62	0
+_usr_bin_grub-mklayout:26999	0:58.57	0
+_usr_bin_dpkg-statoverride:17968	0:44.30	0
+_usr_bin_lexgrog:54081	1:33.45	0
+_usr_bin_du:11205	1:24.00	0
+_usr_bin_grub-mount:53316	1:03.50	0
+_usr_bin_shred:4140	1:59.55	0
+_usr_bin_pdffonts:65151	2:11.42	0
+_usr_bin_codepage:41068	0:40.98	0
+_usr_bin_fc-cat:42531	2:29.13	0
+_usr_bin_gvmap:35656	0:47.32	0
+_usr_bin_dpkg-deb:47323	1:30.80	0
+zzuf[s=88,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56080	0:00.17	1
+_usr_bin_sort:20391	0:48.27	0
+_usr_bin_pdfimages:37461	2:15.50	0
+_usr_bin_dot:55454	2:10.07	0
+_usr_bin_fc-validate:63333	1:06.84	0
+_usr_bin_nsupdate:16694	3:51.63	0
+_usr_bin_grub-glue-efi:7784	1:05.72	0
+_usr_bin_pbmtomda:33368	0:43.13	0
+_usr_bin_du:10719	0:52.69	0
+_usr_bin_gpgsplit:19097	0:55.33	0
+_usr_bin_head:45489	0:44.74	0
+_usr_bin_shred:4353	2:04.19	0
+zzuf[s=9172,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23860	0:10.27	1
+zzuf[s=73,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:19249	0:00.13	1
+_usr_bin_pbmtomda:32630	0:45.81	0
+zzuf[s=82,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59723	0:00.16	1
+_usr_bin_lav2yuv:39151	1:00.79	0
+_usr_bin_sha224sum:9802	0:40.52	0
+_usr_bin_fc-validate:63836	0:55.28	0
+_usr_bin_lexgrog:54444	1:40.17	0
+_usr_bin_nsupdate:16198	3:57.53	0
+_usr_bin_pdfinfo:6957	2:14.55	0
+_usr_bin_unexpand:25064	0:42.61	0
+_usr_bin_pbmtomda:32917	0:46.00	0
+_usr_bin_fc-validate:62906	1:08.24	0
+_usr_bin_gawk:5222	0:54.88	0
+_usr_bin_tee:5508	0:43.55	0
+_usr_bin_gvmap:35595	0:48.02	0
+_usr_bin_head:45821	0:41.16	0
+_usr_bin_sha224sum:9247	1:30.70	0
+zzuf[s=13322,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gvmap:35802	0:07.61	1
+_usr_bin_ginstall-info:29386	0:40.86	0
+_usr_bin_make:51619	0:49.08	0
+_usr_bin_partx:49017	0:46.57	0
+_usr_bin_expand:23174	2:59:00	241
+_usr_bin_scriptreplay:13416	0:39.34	0
+_usr_bin_lav2yuv:39228	0:55.88	0
+_usr_bin_du:11185	0:48.17	0
+_usr_bin_head:46066	0:40.97	0
+_usr_bin_uniq:19758	0:41.46	0
+_usr_bin_dpkg-deb:47923	0:42.31	0
+_usr_bin_pgmslice:46574	0:41.85	0
+_usr_bin_grub-file:59641	1:14.47	0
+_usr_bin_pnmcolormap:17004	0:42.34	0
+_usr_bin_file:27406	0:49.78	0
+_usr_bin_pgmslice:47082	0:41.81	0
+_usr_bin_pdfimages:37238	2:11.13	0
+zzuf[s=10869,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-mark:10242	0:11.67	1
+_usr_bin_grub-glue-efi:7579	0:58.57	0
+_usr_bin_lav2yuv:39736	0:56.99	0
+_usr_bin_pbmreduce:44110	0:44.57	0
+zzuf[s=1273,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2086,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2489,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2566,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2822,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30711	0:05.41	1
+_usr_bin_pnmcolormap:17020	0:43.23	0
+_usr_bin_du:10806	0:48.54	0
+_usr_bin_gvpr:34795	0:46.21	0
+_usr_bin_strings:40412	0:49.12	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8154	0:04.46	1
+_usr_bin_lav2yuv:39335	0:55.78	0
+_usr_bin_file:27305	0:58.61	0
+_usr_bin_dwp:60713	0:50.32	0
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:62804	0:00.12	1
+_usr_bin_codepage:41519	0:42.63	0
+zzuf[s=33,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=308,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=398,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=478,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=489,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=692,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31386	0:04.42	1
+_usr_bin_file:27437	0:54.60	0
+_usr_bin_dijkstra:50839	0:44.86	0
+_usr_bin_file:27777	0:44.20	0
+zzuf[s=15,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_dwp:60628	0:00.21	1
+zzuf[s=217,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31419	0:03.57	1
+_usr_bin_ginstall-info:30083	1:55.14	0
+_usr_bin_codepage:40990	0:42.75	0
+_usr_bin_dijkstra:51165	1:00.19	0
+_usr_bin_lexgrog:54795	1:34.17	0
+_usr_bin_tee:5729	0:40.65	0
+_usr_bin_gvmap:35530	0:47.05	0
+_usr_bin_uniq:19341	0:41.29	0
+_usr_bin_md5sum:11605	0:41.38	0
+_usr_bin_sha224sum:9374	0:45.87	0
+_usr_bin_vmtoolsd:57998	2:30.47	0
+_usr_bin_lav2yuv:39082	0:56.96	0
+_usr_bin_pdfinfo:6390	2:09.25	0
+zzuf[s=809,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18834	0:00.73	1
+_usr_bin_head:45855	0:39.82	0
+_usr_bin_gv2gml:13704	1:03.92	0
+_usr_bin_pbmreduce:44072	0:43.07	0
+_usr_bin_md5sum:11859	0:42.98	0
+_usr_bin_sccmap:49802	0:44.17	0
+_usr_bin_file:27489	1:38.99	0
+_usr_bin_codepage:41683	0:41.73	0
+zzuf[s=52,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52229	0:00.19	1
+_usr_bin_dpkg-deb:48019	1:30.02	0
+_usr_bin_ginstall-info:29671	0:40.03	0
+_usr_bin_nsupdate:16485	4:18.03	0
+_usr_bin_pbmtomda:32655	0:41.38	0
+_usr_bin_dpkg:30503	0:52.57	0
+_usr_bin_du:10817	0:49.46	0
+_usr_bin_sha256sum:317	0:42.83	0
+zzuf[s=2038,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:51700	0:01.06	1
+_usr_bin_sccmap:49355	0:47.49	0
+_usr_bin_sha256sum:440	4:05.32	0
+_usr_bin_pgmslice:47282	0:41.73	0
+_usr_bin_dircolors:43982	0:41.61	0
+_usr_bin_pbmreduce:44345	0:42.09	0
+_usr_bin_uniq:19948	0:43.11	0
+_usr_bin_nsupdate:16411	4:17.59	0
+_usr_bin_fc-cat:42759	2:30.68	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8925	0:00.21	1
+_usr_bin_dircolors:43796	0:42.03	0
+zzuf[s=40,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:19239	0:00.21	1
+_usr_bin_dircolors:44001	0:43.41	0
+_usr_bin_partx:48487	0:46.08	0
+_usr_bin_sccmap:49378	0:44.99	0
+_usr_bin_fc-validate:63290	1:10.99	0
+_usr_bin_nl:14997	0:52.99	0
+_usr_bin_uniq:19452	0:41.17	0
+_usr_bin_ppmhist:1042	0:41.82	0
+_usr_bin_pbmtomda:32803	0:41.09	0
+_usr_bin_gvgen:37840	0:39.08	0
+_usr_bin_md5sum:11896	0:41.80	0
+_usr_bin_gvmap:36037	0:44.73	0
+_usr_bin_partx:48912	0:43.70	0
+_usr_bin_strings:40726	0:48.74	0
+_usr_bin_expand:23157	0:53.80	0
+zzuf[s=48612,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23677	0:48.99	1
+_usr_bin_shred:4744	2:30.92	0
+_usr_bin_dwp:60491	0:50.24	0
+_usr_bin_lav2yuv:38965	0:57.25	0
+_usr_bin_sort:20506	0:53.88	0
+_usr_bin_scriptreplay:12623	0:39.13	0
+_usr_bin_pbmreduce:44689	0:42.13	0
+_usr_bin_pgmslice:46563	0:43.74	0
+_usr_bin_gvmap:35587	0:49.09	0
+_usr_bin_pgmtoppm:64046	0:39.26	0
+_usr_bin_gvpr:34668	0:45.94	0
+_usr_bin_pnmcolormap:17724	0:43.35	0
+_usr_bin_ginstall-info:29906	0:42.15	0
+_usr_bin_file:27696	0:46.84	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28749	0:00.99	1
+_usr_bin_pdffonts:65336	2:14.35	0
+_usr_bin_grops:29321	0:56.33	0
+_usr_bin_gvmap:35993	0:44.96	0
+_usr_bin_pdffonts:64793	2:08.60	0
+_usr_bin_shred:5032	2:52.17	0
+_usr_bin_oggenc:62738	0:47.56	0
+_usr_bin_sccmap:49540	1:06.59	0
+_usr_bin_file:27713	0:44.65	0
+_usr_bin_scriptreplay:12789	0:39.98	0
+_usr_bin_vmtoolsd:58383	2:19.21	0
+_usr_bin_grub-mount:53117	1:03.36	0
+_usr_bin_gvmap:35964	0:45.17	0
+zzuf[s=12489,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23487	0:13.03	1
+_usr_bin_uniq:19952	0:51.33	0
+zzuf[s=15,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8240	0:00.15	1
+_usr_bin_unexpand:25561	0:41.30	0
+_usr_bin_file:27634	0:44.98	0
+_usr_bin_gvmap:35396	0:45.00	0
+_usr_bin_lexgrog:54663	1:31.94	0
+_usr_bin_pdffonts:65120	2:10.91	0
+_usr_bin_oggenc:62592	0:50.58	0
+_usr_bin_pbmtomda:32815	0:41.89	0
+_usr_bin_sha224sum:9479	0:42.63	0
+_usr_bin_du:10726	0:48.04	0
+zzuf[s=58,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56704	0:00.14	1
+_usr_bin_pdffonts:65110	2:13.00	0
+_usr_bin_scriptreplay:13003	0:39.49	0
+_usr_bin_pdftotext:1857	2:08.67	0
+zzuf[s=89,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55909	0:00.58	1
+_usr_bin_file:27667	0:58.42	0
+_usr_bin_dwp:60635	0:50.86	0
+_usr_bin_pgrep:64328	0:42.28	0
+_usr_bin_pnmcolormap:17493	0:42.42	0
+_usr_bin_oggenc:62357	0:46.99	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59503	0:00.21	1
+zzuf[s=947,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1731,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2039,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2686,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30680	0:04.90	1
+_usr_bin_pgmslice:46832	0:42.22	0
+_usr_bin_scriptreplay:13227	0:39.06	0
+_usr_bin_uniq:19662	0:40.51	0
+_usr_bin_grub-mklayout:26940	0:59.34	0
+_usr_bin_ld.gold:56276	0:53.85	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30568	0:00.10	1
+_usr_bin_pdffonts:64821	2:11.77	0
+zzuf[s=6233,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8776	0:05.10	1
+_usr_bin_vmtoolsd:58792	2:05.98	0
+_usr_bin_strings:40440	0:51.93	0
+_usr_bin_head:45400	0:41.57	0
+_usr_bin_pdfimages:36968	2:13.02	0
+_usr_bin_make:52185	0:45.62	0
+_usr_bin_sccmap:49416	0:43.12	0
+_usr_bin_md5sum:11646	0:41.00	0
+_usr_bin_grub-glue-efi:7702	0:57.80	0
+_usr_bin_head:45682	0:40.41	0
+_usr_bin_head:45673	0:40.49	0
+_usr_bin_codepage:41759	1:09.64	0
+_usr_bin_fc-validate:63272	0:53.44	0
+_usr_bin_pdfinfo:6862	2:13.77	0
+_usr_bin_head:46075	0:41.28	0
+_usr_bin_apt-mark:10345	1:41.58	0
+zzuf[s=932,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8519	0:02.12	1
+_usr_bin_dot:55643	1:57.72	0
+_usr_bin_metaflac:24368	0:46.90	0
+_usr_bin_dwp:60142	0:54.70	0
+zzuf[s=7368,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23821	0:07.65	1
+_usr_bin_sccmap:49276	0:45.31	0
+_usr_bin_shred:4142	2:01.97	0
+_usr_bin_gpgsplit:19118	0:55.70	0
+zzuf[s=3429,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=5223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=6393,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=7414,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30975	0:08.12	1
+_usr_bin_pdffonts:64889	3:01.87	0
+_usr_bin_dwp:60620	0:50.00	0
+_usr_bin_dpkg-deb:47526	0:44.99	0
+_usr_bin_head:45243	0:44.73	0
+_usr_bin_fc-validate:63229	0:53.59	0
+zzuf[s=6553,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61512	0:03.22	1
+_usr_bin_grub-glue-efi:7860	0:58.43	0
+_usr_bin_scriptreplay:12786	0:39.95	0
+_usr_bin_dircolors:43162	0:40.56	0
+_usr_bin_gawk:5287	0:50.21	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28869	0:00.24	1
+_usr_bin_sha256sum:159	0:40.85	0
+_usr_bin_uniq:19713	0:41.35	0
+_usr_bin_grub-glue-efi:7503	0:57.19	0
+_usr_bin_uniq:19825	0:40.54	0
+_usr_bin_ginstall-info:30082	1:28.36	0
+zzuf[s=13322,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_sccmap:49424	0:07.00	1
+zzuf[s=145,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56479	0:00.39	1
+_usr_bin_gxl2gv:41838	0:45.75	0
+_usr_bin_sort:20535	3:47.51	0
+_usr_bin_lav2yuv:39237	0:54.99	0
+_usr_bin_pnmcolormap:17785	0:41.54	0
+_usr_bin_lexgrog:54050	1:27.45	0
+_usr_bin_fc-cat:42633	2:32.61	0
+_usr_bin_gvmap:36240	0:43.99	0
+_usr_bin_nsupdate:16672	3:45.38	0
+_usr_bin_nl:14856	0:41.23	0
+_usr_bin_fc-cat:42178	2:32.73	0
+zzuf[s=10,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_grub-file:59118	0:00.11	1
+_usr_bin_localedef:28442	0:40.91	0
+_usr_bin_pbmreduce:44194	0:42.76	0
+_usr_bin_shred:4199	2:01.76	0
+zzuf[s=385,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=836,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2388,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2740,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2913,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31291	0:05.46	1
+_usr_bin_pnmcolormap:17232	0:42.62	0
+_usr_bin_gvpr:34603	0:50.23	0
+_usr_bin_patch:61324	0:56.92	0
+_usr_bin_shred:4662	2:36.87	0
+zzuf[s=1,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=4,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=14,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=6,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=9,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=20,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22974	0:34.33	1
+_usr_bin_nl:15552	0:41.24	0
+_usr_bin_oggenc:62334	0:47.25	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28553	0:00.48	1
+zzuf[s=11,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=20,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=24,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=14,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=22,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=23,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22953	0:34.99	1
+_usr_bin_fc-cat:42285	2:32.66	0
+_usr_bin_du:11437	0:47.29	0
+_usr_bin_metaflac:24558	0:47.17	0
+_usr_bin_pdffonts:64541	2:11.50	0
+_usr_bin_file:27515	0:51.12	0
+_usr_bin_pdfinfo:7243	2:13.11	0
+_usr_bin_strings:39871	0:48.99	0
+_usr_bin_dpkg-statoverride:18028	0:44.48	0
+_usr_bin_nl:15675	0:41.61	0
+_usr_bin_grub-file:59430	1:13.35	0
+zzuf[s=4806,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52826	0:02.50	1
+zzuf[s=207,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56187	0:00.27	1
+zzuf[s=868,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8917	0:00.51	1
+_usr_bin_nl:15111	0:41.55	0
+_usr_bin_ruby1.9.1:3031	5:42.84	0
+_usr_bin_grub-file:59552	1:13.98	0
+_usr_bin_gvmap:35708	0:45.13	0
+_usr_bin_strings:40159	0:48.51	0
+_usr_bin_grub-mklayout:26459	1:00.44	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28628	0:00.14	1
+_usr_bin_fc-cat:42864	2:32.69	0
+_usr_bin_pdfimages:37463	2:12.56	0
+_usr_bin_ppmhist:1045	0:41.48	0
+_usr_bin_unexpand:25210	0:40.46	0
+_usr_bin_tred:2135	0:43.25	0
+_usr_bin_dijkstra:51074	0:43.43	0
+zzuf[s=127,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-get:34014	0:00.23	1
+_usr_bin_sha256sum:526	0:41.57	0
+_usr_bin_strings:39942	0:48.31	0
+_usr_bin_uniq:19635	0:41.51	0
+_usr_bin_dijkstra:50378	0:44.41	0
+_usr_bin_codepage:41085	0:40.72	0
+zzuf[s=28004,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8690	0:13.20	1
+_usr_bin_du:11159	0:47.49	0
+_usr_bin_grub-mklayout:27070	0:58.47	0
+_usr_bin_sccmap:49518	1:06.17	0
+_usr_bin_metaflac:24838	0:44.38	0
+_usr_bin_ruby1.9.1:2595	5:39.25	0
+_usr_bin_file:27535	0:52.48	0
+_usr_bin_gpgsplit:18414	0:51.51	0
+_usr_bin_codepage:41572	0:40.53	0
+_usr_bin_lav2yuv:39006	0:56.46	0
+_usr_bin_dircolors:43867	0:48.99	0
+_usr_bin_lexgrog:54348	1:31.60	0
+_usr_bin_partx:48901	0:43.73	0
+zzuf[s=1105,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1353,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1545,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1572,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1646,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1745,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30913	0:04.43	1
+_usr_bin_sort:20723	0:44.14	0
+_usr_bin_vmtoolsd:58799	2:07.07	0
+_usr_bin_dpkg-deb:47793	1:30.08	0
+_usr_bin_grub-mklayout:26785	0:57.90	0
+zzuf[s=22905,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23828	0:22.99	1
+_usr_bin_codepage:41095	0:41.98	0
+_usr_bin_dpkg-deb:47843	1:30.01	0
+_usr_bin_unexpand:25338	0:41.62	0
+_usr_bin_expand:23209	0:41.30	0
+_usr_bin_nsupdate:16185	3:54.05	0
+_usr_bin_dot:55375	1:59.99	0
+_usr_bin_expand:22507	0:57.18	0
+_usr_bin_vmtoolsd:58000	2:29.23	0
+zzuf[s=13322,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_dot:55598	0:16.62	1
+_usr_bin_partx:48679	0:45.57	0
+_usr_bin_pnmcolormap:17262	0:42.68	0
+_usr_bin_pdfimages:37600	2:09.10	0
+_usr_bin_dijkstra:50625	0:43.77	0
+_usr_bin_pmap:34099	0:42.38	0
+_usr_bin_ruby1.9.1:2179	5:40.41	0
+_usr_bin_pbmtomda:32742	0:43.61	0
+_usr_bin_lav2yuv:39118	0:56.60	0
+_usr_bin_dircolors:43565	8:02.99	0
+_usr_bin_nl:14824	0:42.41	0
+_usr_bin_codepage:40842	0:41.09	0
+_usr_bin_grub-mklayout:26922	1:01.21	0
+zzuf[s=52,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52033	0:00.24	1
+_usr_bin_dpkg-deb:48197	1:29.79	0
+_usr_bin_vmtoolsd:58102	2:19.36	0
+_usr_bin_dijkstra:50314	1:07.18	0
+_usr_bin_pnmcolormap:16915	0:42.67	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8463	0:00.31	1
+_usr_bin_du:11371	1:03.20	0
+zzuf[s=319,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56007	0:00.35	1
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21552	0:00.15	1
+_usr_bin_nl:15632	0:42.00	0
+_usr_bin_sha224sum:9726	0:42.43	0
+zzuf[s=3,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55911	0:00.20	1
+_usr_bin_md5sum:12019	0:41.48	0
+_usr_bin_fc-cat:41998	2:36.68	0
+_usr_bin_grub-mklayout:27136	1:00.39	0
+_usr_bin_pbmtomda:33401	0:41.96	0
+_usr_bin_pdfinfo:6545	2:13.72	0
+_usr_bin_nl:15502	0:42.02	0
+zzuf[s=9,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=14,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61848	0:00.78	1
+_usr_bin_ginstall-info:29736	0:39.56	0
+_usr_bin_lexgrog:54516	2:54.43	0
+_usr_bin_yuvcorrect_tune:36505	0:45.37	0
+_usr_bin_uniq:19785	0:43.54	0
+_usr_bin_md5sum:11478	0:43.07	0
+_usr_bin_file:28166	0:59.24	0
+_usr_bin_gv2gml:14051	0:46.90	0
+_usr_bin_scriptreplay:13140	0:39.75	0
+_usr_bin_strings:40571	0:50.80	0
+_usr_bin_gv2gml:13895	0:44.11	0
+_usr_bin_uniq:20078	0:41.47	0
+_usr_bin_du:10906	0:41.53	0
+_usr_bin_apt-sortpkgs:23885	1:40.25	0
+_usr_bin_pdftotext:1882	2:08.06	0
+_usr_bin_fc-cat:42004	2:36.82	0
+_usr_bin_sccmap:50220	0:44.03	0
+_usr_bin_gawk:5185	0:49.87	0
+zzuf[s=1300,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61837	0:00.72	1
+_usr_bin_sccmap:49393	0:44.64	0
+_usr_bin_ruby1.9.1:2819	5:41.85	0
+_usr_bin_sha256sum:795	0:41.83	0
+_usr_bin_dwp:60733	0:51.01	0
+_usr_bin_unexpand:25698	0:40.43	0
+zzuf[s=1958,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8763	0:01.56	1
+zzuf[s=5974,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8517	0:02.89	1
+_usr_bin_shred:4734	2:26.30	0
+zzuf[s=10025,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51647	0:05.79	1
+_usr_bin_sha224sum:9955	0:41.80	0
+_usr_bin_du:11207	1:32.24	0
+_usr_bin_file:27601	1:10.88	0
+_usr_bin_install:43068	0:46.92	0
+_usr_bin_lexgrog:54512	1:29.42	0
+_usr_bin_fc-validate:62980	1:05.83	0
+_usr_bin_grub-mklayout:26453	0:58.86	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28861	0:00.16	1
+_usr_bin_pbmreduce:44188	0:42.89	0
+_usr_bin_vmtoolsd:57909	2:29.93	0
+_usr_bin_sha256sum:564	0:41.93	0
+_usr_bin_lexgrog:54523	1:31.06	0
+_usr_bin_pdfimages:37062	2:13.99	0
+_usr_bin_apt-sortpkgs:23504	1:38.76	0
+zzuf[s=235,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56689	0:00.29	1
+_usr_bin_localedef:28849	0:40.55	0
+_usr_bin_dot:54868	1:59.38	0
+_usr_bin_grub-file:58914	1:14.91	0
+_usr_bin_pdfimages:37330	2:08.89	0
+zzuf[s=24753,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:34940	0:14.70	1
+_usr_bin_ginstall-info:29694	0:39.89	0
+_usr_bin_grub-file:58994	1:14.77	0
+_usr_bin_metaflac:24081	0:44.54	0
+zzuf[s=40,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8570	0:00.12	1
+_usr_bin_unexpand:25216	0:40.49	0
+_usr_bin_shred:4417	1:57.82	0
+_usr_bin_nl:15556	0:42.01	0
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=961,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1201,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1353,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1654,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1681,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31202	0:04.81	1
+_usr_bin_pbmreduce:44799	0:43.95	0
+_usr_bin_pbmtomda:33104	0:41.43	0
+_usr_bin_dijkstra:51047	0:47.80	0
+_usr_bin_oggenc:62205	0:48.62	0
+_usr_bin_pmap:34251	0:42.12	0
+_usr_bin_ppmlabel:45081	0:41.30	0
+_usr_bin_pdftotext:1780	2:11.69	0
+zzuf[s=1105,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52848	0:00.66	1
+_usr_bin_gvpr:35062	0:45.94	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9036	0:04.55	1
+_usr_bin_md5sum:11746	0:41.60	0
+_usr_bin_xauth:23364	2:22.07	0
+_usr_bin_sha256sum:46	0:42.06	0
+_usr_bin_fc-validate:63243	1:03.08	0
+_usr_bin_fc-cat:42054	2:36.99	0
+_usr_bin_fc-cat:42008	2:36.43	0
+_usr_bin_apt-mark:10425	1:47.56	0
+_usr_bin_pmap:34234	0:42.59	0
+_usr_bin_fc-validate:63244	0:54.57	0
+_usr_bin_gxl2gv:41875	0:45.25	0
+_usr_bin_head:45950	0:41.41	0
+_usr_bin_dpkg-statoverride:17905	0:44.73	0
+_usr_bin_wget:21292	0:59.41	0
+_usr_bin_gv2gml:13584	1:05.20	0
+zzuf[s=6,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=4,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=14,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=8,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=9,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22945	0:42.01	1
+_usr_bin_fc-validate:63179	1:00.34	0
+_usr_bin_du:10880	0:40.76	0
+_usr_bin_gxl2gv:41816	0:59.53	0
+_usr_bin_dijkstra:50986	0:46.55	0
+_usr_bin_vmtoolsd:58574	2:19.80	0
+_usr_bin_sort:20475	0:52.28	0
+_usr_bin_head:45337	0:42.39	0
+_usr_bin_dircolors:43638	0:40.78	0
+_usr_bin_pnmcolormap:16828	0:43.30	0
+_usr_bin_dwp:60476	0:55.20	0
+_usr_bin_dpkg-deb:48130	0:44.68	0
+_usr_bin_zdump:64147	0:39.07	0
+_usr_bin_gvmap:36300	0:44.21	0
+_usr_bin_fc-validate:63320	1:03.99	0
+_usr_bin_strings:40568	0:53.37	0
+zzuf[s=10953,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18910	0:04.87	1
+_usr_bin_file:27351	39:30.54	0
+_usr_bin_partx:48671	0:44.27	0
+_usr_bin_pbmreduce:44441	0:42.06	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31534	0:03.80	1
+_usr_bin_vmtoolsd:58055	2:29.51	0
+_usr_bin_pdffonts:65109	2:13.48	0
+_usr_bin_preconv:51477	0:54.35	0
+zzuf[s=0,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=2,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:29069	0:00.19	1
+_usr_bin_pg:46249	0:42.92	0
+_usr_bin_pdfimages:36957	2:10.59	0
+_usr_bin_pbmtomda:33493	0:41.68	0
+_usr_bin_dpkg-query:26034	0:45.75	0
+_usr_bin_lav2yuv:39583	0:56.57	0
+_usr_bin_grub-file:59175	1:15.54	0
+_usr_bin_sccmap:49433	0:43.33	0
+_usr_bin_pgmslice:46370	0:42.30	0
+zzuf[s=548,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_tic:31369	0:05.80	1
+_usr_bin_uniq:19564	0:41.21	0
+_usr_bin_file:27217	0:51.56	0
+_usr_bin_ginstall-info:29754	1:07.84	0
+_usr_bin_fc-cat:42215	2:36.72	0
+_usr_bin_pdftotext:1561	3:02.12	0
+_usr_bin_grub-file:59774	1:05.92	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:61951	0:00.37	1
+_usr_bin_file:27710	0:44.99	0
+_usr_bin_scriptreplay:12570	0:39.80	0
+_usr_bin_shred:4489	2:03.25	0
+_usr_bin_patch:61862	0:42.32	0
+_usr_bin_pdftotext:1537	2:12.60	0
+_usr_bin_nsupdate:16712	3:47.30	0
+zzuf[s=11,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56398	0:00.18	1
+_usr_bin_dijkstra:50872	0:54.62	0
+_usr_bin_ginstall-info:29991	0:42.52	0
+_usr_bin_dijkstra:51215	0:45.05	0
+_usr_bin_make:52403	0:46.79	0
+zzuf[s=756,r=0.001:0.5]: signal 8 (SIGFPE)
+_usr_bin_palmtopnm:28187	0:00.43	1
+_usr_bin_grub-mklayout:27155	26:30.06	0
+_usr_bin_ruby1.9.1:2790	5:40.45	0
+_usr_bin_oggenc:62539	0:48.47	0
+_usr_bin_vmtoolsd:58750	2:05.53	0
+_usr_bin_nsupdate:16684	3:47.75	0
+_usr_bin_dot:55140	2:06.29	0
+_usr_bin_uniq:19768	0:41.88	0
+_usr_bin_gvmap:36148	0:46.58	0
+_usr_bin_pdftotext:1931	2:09.99	0
+_usr_bin_ginstall-info:30328	0:39.38	0
+_usr_bin_fc-cat:42267	2:36.25	0
+_usr_bin_dpkg-statoverride:18024	0:44.84	0
+_usr_bin_dijkstra:50263	1:06.18	0
+_usr_bin_tee:6032	0:40.59	0
+_usr_bin_dpkg-deb:48034	1:30.72	0
+_usr_bin_make:51750	0:45.01	0
+_usr_bin_codepage:41302	0:41.51	0
+_usr_bin_pdfimages:37581	2:18.46	0
+_usr_bin_du:11002	0:48.99	0
+_usr_bin_gvmap:36025	0:45.36	0
+_usr_bin_ginstall-info:29541	1:28.56	0
+_usr_bin_md5sum:12037	0:41.58	0
+_usr_bin_codepage:41573	0:41.11	0
+zzuf[s=449,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=697,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1176,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1745,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31583	0:05.07	1
+_usr_bin_dpkg:30506	0:52.21	0
+_usr_bin_gvpr:34406	0:43.46	0
+_usr_bin_sccmap:49735	0:43.80	0
+_usr_bin_pdffonts:65209	2:13.52	0
+_usr_bin_gvmap:36107	0:44.95	0
+_usr_bin_codepage:41628	0:41.18	0
+_usr_bin_dpkg-query:26162	0:45.79	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8609	0:04.33	1
+_usr_bin_scriptreplay:13046	0:40.76	0
+_usr_bin_pbmtomda:32600	0:43.71	0
+_usr_bin_dwp:59879	0:50.57	0
+_usr_bin_strings:40678	0:49.40	0
+_usr_bin_sort:20651	0:44.81	0
+_usr_bin_dot:55539	1:59.12	0
+_usr_bin_pdfinfo:6966	2:14.08	0
+_usr_bin_pnmcolormap:17667	0:42.51	0
+_usr_bin_grub-mklayout:26532	1:02.13	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59483	0:00.10	1
+_usr_bin_file:27208	1:14.49	0
+_usr_bin_pgmslice:46568	0:42.57	0
+zzuf[s=409,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52859	0:00.37	1
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:61966	0:00.27	1
+_usr_bin_dpkg-query:26153	0:45.46	0
+zzuf[s=33,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=308,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=398,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=478,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=489,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=692,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30805	0:04.34	1
+_usr_bin_pdftotext:1333	2:13.42	0
+_usr_bin_lexgrog:54718	3:10.29	0
+_usr_bin_grub-glue-efi:7654	0:59.49	0
+_usr_bin_make:51835	0:44.79	0
+_usr_bin_oggenc:62235	0:50.36	0
+_usr_bin_scriptreplay:13380	0:39.71	0
+zzuf[s=23158,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52413	0:11.18	1
+_usr_bin_pdfinfo:6860	2:09.01	0
+_usr_bin_nl:15059	0:41.58	0
+_usr_bin_vmtoolsd:58273	2:30.91	0
+_usr_bin_pngtopnm:45148	0:46.81	0
+_usr_bin_cksum:60862	0:41.46	0
+_usr_bin_ginstall-info:30195	0:42.04	0
+_usr_bin_ruby1.9.1:2479	5:43.39	0
+_usr_bin_sort:20593	0:47.48	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:61959	0:00.16	1
+_usr_bin_codepage:41099	0:40.67	0
+_usr_bin_pgmtoppm:63920	0:41.15	0
+zzuf[s=9,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56045	0:00.11	1
+_usr_bin_uniq:19772	0:41.19	0
+_usr_bin_apt-mark:10368	1:43.85	0
+_usr_bin_fc-cat:42092	2:37.12	0
+_usr_bin_pdftotext:1742	2:14.14	0
+_usr_bin_tee:5869	0:40.62	0
+_usr_bin_shred:4639	2:28.02	0
+_usr_bin_sort:20803	0:45.14	0
+_usr_bin_lexgrog:53917	1:30.50	0
+_usr_bin_nl:14819	0:42.44	0
+_usr_bin_oggenc:62694	0:49.96	0
+_usr_bin_ginstall-info:29934	0:42.32	0
+_usr_bin_gvmap:35628	0:46.67	0
+_usr_bin_strings:40492	0:49.25	0
+zzuf[s=296,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56367	0:00.35	1
+_usr_bin_tee:5568	0:40.81	0
+_usr_bin_ginstall-info:29521	0:42.18	0
+_usr_bin_ginstall-info:29561	0:40.02	0
+_usr_bin_du:10986	0:49.38	0
+_usr_bin_pdfimages:37503	2:09.15	0
+_usr_bin_grub-file:59204	1:14.92	0
+_usr_bin_sha224sum:9474	0:41.33	0
+_usr_bin_scriptreplay:13347	0:39.34	0
+_usr_bin_lexgrog:53876	1:32.20	0
+_usr_bin_metaflac:23988	0:44.57	0
+_usr_bin_codepage:41236	0:41.96	0
+_usr_bin_pdffonts:64709	2:14.45	0
+zzuf[s=158,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21512	49:00.04	1
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52807	0:04.55	1
+_usr_bin_make:51886	0:44.57	0
+_usr_bin_grub-mklayout:26948	1:00.10	0
+_usr_bin_dircolors:43732	0:40.87	0
+_usr_bin_localedef:28736	0:40.97	0
+_usr_bin_dwp:60158	0:51.86	0
+_usr_bin_gvpr:35174	0:46.94	0
+_usr_bin_dpkg-query:25958	0:45.49	0
+_usr_bin_sha256sum:134	0:41.79	0
+zzuf[s=19,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56315	0:00.75	1
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:29081	0:00.21	1
+_usr_bin_du:10967	0:40.77	0
+_usr_bin_ppmntsc:52639	0:43.38	0
+_usr_bin_sha224sum:9393	0:41.04	0
+_usr_bin_pgmslice:47072	0:45.05	0
+_usr_bin_dijkstra:50604	0:44.39	0
+zzuf[s=19,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56524	0:00.14	1
+_usr_bin_shred:4604	2:44.17	0
+_usr_bin_du:11003	0:51.02	0
+_usr_bin_sha256sum:979	0:42.06	0
+_usr_bin_dpkg-query:25946	0:45.71	0
+_usr_bin_sort:20271	0:52.09	0
+zzuf[s=1081,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8905	0:00.65	1
+_usr_bin_metaflac:24767	0:45.03	0
+zzuf[s=40,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56457	0:00.19	1
+_usr_bin_fc-validate:63210	0:54.55	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28953	0:00.24	1
+_usr_bin_dpkg-statoverride:18234	0:44.77	0
+zzuf[s=200,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=249,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=329,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=467,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30947	0:03.76	1
+_usr_bin_ginstall-info:30127	1:31.00	0
+_usr_bin_vmtoolsd:58219	2:19.74	0
+_usr_bin_pnmcolormap:16934	0:42.79	0
+_usr_bin_make:52416	0:47.30	0
+zzuf[s=22,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=505,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=529,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=566,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=790,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31322	0:03.88	1
+_usr_bin_dpkg-deb:47578	0:44.53	0
+_usr_bin_nsupdate:16477	4:25.38	0
+_usr_bin_pbmreduce:44326	0:42.18	0
+_usr_bin_vmtoolsd:58775	2:06.81	0
+_usr_bin_pmap:34226	0:42.12	0
+_usr_bin_gv2gml:13759	0:45.19	0
+_usr_bin_pbmtomda:32963	0:41.45	0
+zzuf[s=10118,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18890	0:05.29	1
+_usr_bin_apt-sortpkgs:23922	1:45.16	0
+_usr_bin_sort:20392	0:44.96	0
+_usr_bin_file:27967	0:46.17	0
+_usr_bin_sccmap:49704	0:44.11	0
+zzuf[s=777,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=793,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=819,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=913,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1227,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1637,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31379	0:06.00	1
+_usr_bin_gvmap:35698	0:47.01	0
+_usr_bin_pbmreduce:44580	0:43.32	0
+_usr_bin_tee:5686	0:40.79	0
+_usr_bin_ruby1.9.1:2949	5:40.34	0
+_usr_bin_pdftotext:1354	2:14.03	0
+_usr_bin_fc-validate:63683	1:04.65	0
+_usr_bin_dpkg-statoverride:18263	0:44.71	0
+_usr_bin_scriptreplay:12922	0:39.83	0
+_usr_bin_lsattr:33591	0:45.21	0
+_usr_bin_grub-mount:53582	1:02.61	0
+_usr_bin_dot:54937	1:59.36	0
+_usr_bin_install:42921	0:47.10	0
+zzuf[s=440,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=680,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1459,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1523,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1854,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1989,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31137	0:05.58	1
+_usr_bin_pdffonts:65066	2:14.85	0
+_usr_bin_pdfimages:37208	2:09.24	0
+_usr_bin_tred:2131	0:44.17	0
+_usr_bin_pgmslice:46780	0:42.79	0
+_usr_bin_ginstall-info:30311	0:41.93	0
+_usr_bin_sha256sum:76	0:40.90	0
+_usr_bin_sha224sum:9867	0:40.90	0
+_usr_bin_pdftotext:1924	2:12.13	0
+_usr_bin_gxl2gv:41852	0:45.60	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28600	0:00.28	1
+_usr_bin_pdffonts:64789	2:10.65	0
+_usr_bin_pnmcolormap:16888	0:45.27	0
+_usr_bin_pbmtomda:32624	0:42.10	0
+_usr_bin_scriptreplay:12629	0:39.59	0
+_usr_bin_dot:54999	1:59.98	0
+_usr_bin_pgmslice:47122	0:42.85	0
+_usr_bin_dot:55349	1:59.53	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30750	0:03.99	1
+_usr_bin_grub-mklayout:27048	0:59.99	0
+_usr_bin_dpkg-deb:47840	1:30.52	0
+_usr_bin_lav2yuv:39412	0:57.46	0
+_usr_bin_scriptreplay:13246	0:38.48	0
+_usr_bin_nl:14835	0:42.86	0
+_usr_bin_pdftotext:1454	2:14.65	0
+_usr_bin_make:52481	0:46.19	0
+_usr_bin_dot:55529	2:01.35	0
+_usr_bin_head:45860	0:41.31	0
+_usr_bin_nl:15299	0:41.62	0
+_usr_bin_expand:22570	0:40.77	0
+_usr_bin_gxl2gv:41808	0:45.83	0
+_usr_bin_gv2gml:13571	1:04.65	0
+_usr_bin_ogginfo:51228	0:46.23	0
+zzuf[s=67,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22489	0:27.82	1
+_usr_bin_partx:48757	0:43.60	0
+_usr_bin_sha256sum:164	0:41.57	0
+_usr_bin_dijkstra:51089	0:44.39	0
+_usr_bin_partx:48785	0:42.62	0
+_usr_bin_head:45794	0:39.95	0
+_usr_bin_nl:15187	0:41.52	0
+_usr_bin_dot:55487	2:04.92	0
+_usr_bin_apt-get:33949	1:43.56	0
+zzuf[s=81,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=84,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=104,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=197,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=200,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=254,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30731	0:03.46	1
+_usr_bin_dircolors:43329	0:46.20	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:29113	0:00.33	1
+_usr_bin_grub-file:59812	1:15.56	0
+_usr_bin_vmtoolsd:57944	2:31.75	0
+_usr_bin_pdffonts:64683	2:13.67	0
+_usr_bin_pbmreduce:44209	0:42.23	0
+_usr_bin_file:27527	0:51.97	0
+_usr_bin_pdftotext:1610	2:18.22	0
+_usr_bin_dircolors:43432	0:41.33	0
+_usr_bin_dwp:60741	0:51.22	0
+_usr_bin_dpkg-deb:47421	0:43.53	0
+_usr_bin_file:27560	2:26.70	0
+_usr_bin_sha224sum:9797	0:41.75	0
+_usr_bin_dircolors:43467	8:02.99	0
+_usr_bin_grub-file:59400	1:15.21	0
+_usr_bin_ginstall-info:29535	0:42.38	0
+_usr_bin_file:27852	0:44.01	0
+zzuf[s=3429,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=5223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=6393,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=7414,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31073	0:07.87	1
+_usr_bin_sort:20610	0:46.04	0
+_usr_bin_unexpand:25211	0:40.97	0
+_usr_bin_dpkg-statoverride:18284	0:44.89	0
+_usr_bin_install:42993	0:47.45	0
+_usr_bin_codepage:41622	0:41.88	0
+zzuf[s=13137,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51901	0:06.19	1
+_usr_bin_pdffonts:65194	2:14.26	0
+_usr_bin_pdftotext:2005	2:13.77	0
+_usr_bin_uniq:19631	0:41.21	0
+_usr_bin_lav2yuv:39813	0:56.99	0
+_usr_bin_oggenc:62776	0:47.81	0
+_usr_bin_sha224sum:9453	0:41.52	0
+_usr_bin_unexpand:25516	0:40.62	0
+_usr_bin_dijkstra:50545	0:45.70	0
+_usr_bin_vmtoolsd:58531	2:07.18	0
+_usr_bin_pdffonts:64458	2:09.90	0
+_usr_bin_zdump:64093	0:39.17	0
+_usr_bin_cksum:60844	0:41.21	0
+_usr_bin_uniq:19718	0:40.68	0
+_usr_bin_sha224sum:9219	0:43.91	0
+zzuf[s=1651,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31511	0:10.99	1
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_unexpand:25770	0:00.16	1
+zzuf[s=73822,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52438	0:35.08	1
+_usr_bin_dircolors:43609	0:43.73	0
+_usr_bin_head:46196	0:40.83	0
+zzuf[s=1254,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61504	0:01.21	1
+_usr_bin_apt-get:33979	1:44.81	0
+_usr_bin_scriptreplay:12814	0:40.07	0
+_usr_bin_grub-mount:53840	1:03.05	0
+_usr_bin_apt-sortpkgs:23417	2:05.13	0
+_usr_bin_pdfinfo:6666	2:14.67	0
+_usr_bin_pdftotext:1496	2:10.18	0
+_usr_bin_grops:29289	0:56.78	0
+_usr_bin_pdftotext:1979	2:13.40	0
+_usr_bin_sha224sum:9691	0:41.50	0
+_usr_bin_shred:4995	2:01.71	0
+_usr_bin_sha256sum:794	0:42.76	0
+_usr_bin_pbmtomda:32804	0:43.25	0
+zzuf[s=1017,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8311	0:00.59	1
+_usr_bin_grub-mklayout:26907	1:00.54	0
+_usr_bin_fc-cat:42480	2:38.39	0
+_usr_bin_pdffonts:65168	2:12.02	0
+_usr_bin_sort:21102	0:54.31	0
+_usr_bin_dijkstra:51138	0:46.45	0
+_usr_bin_oggenc:62564	0:48.21	0
+_usr_bin_nl:15526	0:43.29	0
+_usr_bin_sha256sum:386	0:46.09	0
+_usr_bin_sha224sum:9921	0:42.49	0
+_usr_bin_apt-sortpkgs:23582	1:39.11	0
+_usr_bin_sha224sum:9114	0:42.42	0
+_usr_bin_ginstall-info:29516	1:01.56	0
+_usr_bin_lexgrog:54449	1:32.42	0
+zzuf[s=161,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=357,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=392,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=562,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=567,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=682,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31239	0:04.02	1
+_usr_bin_dpkg-deb:48272	1:30.42	0
+_usr_bin_shred:4222	0:42.58	0
+_usr_bin_sha224sum:9978	0:41.46	0
+_usr_bin_oggenc:62302	0:49.45	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:29250	0:00.11	1
+_usr_bin_grub-mklayout:27030	1:02.51	0
+_usr_bin_nsupdate:16165	4:12.98	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28683	0:00.21	1
+_usr_bin_wget:21230	0:54.33	0
+zzuf[s=11201,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-sortpkgs:23488	0:11.47	1
+_usr_bin_uniq:19695	1:18.97	0
+_usr_bin_pic:6315	0:54.87	0
+_usr_bin_dircolors:43206	0:41.95	0
+_usr_bin_apt-mark:10260	1:43.70	0
+zzuf[s=6275,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_tic:31232	0:04.46	1
+zzuf[s=12598,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18914	0:05.99	1
+_usr_bin_grub-glue-efi:7574	0:59.67	0
+zzuf[s=1334,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2134,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3030,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3753,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31310	0:05.83	1
+zzuf[s=82,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56715	0:00.47	1
+_usr_bin_patch:61768	0:57.01	0
+_usr_bin_strings:40061	0:51.78	0
+_usr_bin_pdfinfo:6621	2:14.19	0
+_usr_bin_pnmcolormap:16845	0:44.40	0
+_usr_bin_dpkg:30505	0:52.59	0
+_usr_bin_patch:61149	4:59.30	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28644	0:00.18	1
+_usr_bin_nsupdate:16463	4:25.50	0
+_usr_bin_md5sum:12161	0:41.96	0
+_usr_bin_grub-mklayout:26692	1:00.02	0
+_usr_bin_ginstall-info:30202	1:00.89	0
+_usr_bin_pgmslice:46999	0:42.06	0
+_usr_bin_file:27373	0:45.03	0
+_usr_bin_ruby1.9.1:2777	5:49.44	0
+_usr_bin_ruby1.9.1:2325	9:08.55	0
+_usr_bin_pdftotext:1687	2:11.99	0
+_usr_bin_dot:55475	2:05.82	0
+_usr_bin_pgmslice:47145	0:42.41	0
+zzuf[s=6777,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61530	0:03.19	1
+zzuf[s=27204,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61585	0:11.58	1
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28409	0:00.12	1
+_usr_bin_pdffonts:64738	2:10.23	0
+zzuf[s=239,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56737	0:00.32	1
+_usr_bin_dpkg-statoverride:18032	0:44.87	0
+_usr_bin_wget:21380	0:55.58	0
+zzuf[s=16740,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8335	0:10.99	1
+_usr_bin_pdftotext:1770	2:09.82	0
+_usr_bin_dot:55039	2:01.99	0
+_usr_bin_pdffonts:64657	2:10.99	0
+_usr_bin_grub-mount:53728	1:02.46	0
+_usr_bin_yuvcorrect_tune:36611	0:48.54	0
+_usr_bin_metaflac:24526	0:46.58	0
+_usr_bin_metaflac:24899	0:44.79	0
+_usr_bin_pgmslice:46773	0:42.28	0
+_usr_bin_nsupdate:16258	4:23.30	0
+_usr_bin_grub-mount:53318	1:02.96	0
+_usr_bin_install:42898	0:47.24	0
+_usr_bin_dpkg-deb:47836	1:30.87	0
+_usr_bin_du:11325	0:47.03	0
+_usr_bin_vmtoolsd:58378	2:20.86	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:29232	0:00.21	1
+_usr_bin_gvmap:35479	0:45.07	0
+zzuf[s=142,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22482	1:48.92	1
+_usr_bin_tee:5468	0:41.16	0
+_usr_bin_partx:48557	0:44.61	0
+_usr_bin_pbmreduce:44147	0:42.99	0
+_usr_bin_ginstall-info:29554	0:42.73	0
+_usr_bin_metaflac:24836	0:45.25	0
+_usr_bin_ruby1.9.1:2613	5:42.22	0
+_usr_bin_lexgrog:54596	7:31.77	0
+_usr_bin_expand:22679	0:40.78	0
+_usr_bin_pdftotext:1634	2:19.41	0
+_usr_bin_ogginfo:51274	0:44.20	0
+_usr_bin_pgmslice:46320	0:45.03	0
+_usr_bin_dircolors:43186	0:42.89	0
+_usr_bin_grub-glue-efi:7907	0:58.74	0
+_usr_bin_dot:55617	2:00.90	0
+_usr_bin_lexgrog:54454	1:37.99	0
+_usr_bin_cksum:60847	0:40.67	0
+_usr_bin_pdfimages:36851	2:14.62	0
+_usr_bin_partx:48455	0:44.31	0
+_usr_bin_partx:48586	0:46.04	0
+_usr_bin_dpkg-query:26078	0:46.03	0
+_usr_bin_pmap:34169	0:42.57	0
+_usr_bin_lav2yuv:39798	1:01.39	0
+zzuf[s=52,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:51739	0:00.14	1
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8147	0:04.47	1
+_usr_bin_grub-mount:53162	1:04.06	0
+_usr_bin_dot:55042	2:02.92	0
+_usr_bin_ppmhist:1041	0:41.74	0
+_usr_bin_pdfinfo:6766	2:09.98	0
+_usr_bin_pdftotext:1781	2:12.95	0
+_usr_bin_pdftotext:1157	2:15.35	0
+_usr_bin_pbmreduce:44497	0:43.09	0
+_usr_bin_dpkg-statoverride:17856	0:45.00	0
+_usr_bin_grub-mklayout:26272	1:00.22	0
+zzuf[s=24097,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61858	0:10.26	1
+_usr_bin_dot:55244	2:02.07	0
+_usr_bin_pdffonts:65141	2:11.64	0
+_usr_bin_sha224sum:9167	0:42.82	0
+_usr_bin_grub-file:59295	1:16.32	0
+_usr_bin_fc-cat:42830	2:41.19	0
+_usr_bin_grub-glue-efi:7821	0:59.18	0
+_usr_bin_grub-mount:53115	1:05.81	0
+_usr_bin_look:51381	0:38.56	0
+_usr_bin_pdfinfo:6971	2:12.42	0
+_usr_bin_shred:4984	1:59.82	0
+_usr_bin_unexpand:25088	0:41.00	0
+_usr_bin_pic:6299	1:40.16	0
+_usr_bin_sort:20828	0:45.01	0
+_usr_bin_patch:61053	0:57.52	0
+_usr_bin_file:27249	1:45.33	0
+_usr_bin_zdump:64132	0:39.77	0
+_usr_bin_fc-cat:42858	2:40.81	0
+_usr_bin_lexgrog:54677	1:32.80	0
+_usr_bin_file:27774	0:43.97	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59473	0:00.47	1
+_usr_bin_lav2yuv:38868	0:58.47	0
+_usr_bin_vmtoolsd:58056	2:30.77	0
+_usr_bin_sort:20290	0:51.45	0
+_usr_bin_du:11241	0:48.57	0
+_usr_bin_pgmslice:47290	0:43.68	0
+_usr_bin_shred:4414	2:05.55	0
+_usr_bin_metaflac:24174	0:45.71	0
+zzuf[s=4833,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8408	0:02.40	1
+_usr_bin_pgmslice:47051	0:42.56	0
+_usr_bin_fc-validate:63329	1:05.05	0
+_usr_bin_ruby1.9.1:2747	5:44.85	0
+_usr_bin_strings:40495	0:53.23	0
+_usr_bin_sort:20319	1:12.64	0
+_usr_bin_dot:55179	2:06.84	0
+_usr_bin_strings:39895	13:17.64	0
+_usr_bin_tee:5902	0:41.73	0
+_usr_bin_pdftotext:1205	2:13.70	0
+_usr_bin_pnmcolormap:17466	0:42.68	0
+_usr_bin_apt-get:33810	1:44.63	0
+_usr_bin_lav2yuv:39525	0:57.39	0
+_usr_bin_lexgrog:54113	1:31.58	0
+_usr_bin_fc-cat:42853	2:40.40	0
+_usr_bin_shred:4814	2:09.59	0
+_usr_bin_unexpand:25125	0:40.46	0
+_usr_bin_sha224sum:9919	0:42.78	0
+_usr_bin_sccmap:49860	0:44.96	0
+_usr_bin_tee:5714	0:41.04	0
+_usr_bin_expand:22805	0:41.46	0
+_usr_bin_sha256sum:859	0:41.05	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28338	0:00.20	1
+_usr_bin_pbmtomda:33269	0:41.31	0
+_usr_bin_lexgrog:54235	1:58.68	0
+_usr_bin_sha224sum:9946	4:05.21	0
+_usr_bin_shred:4789	2:27.62	0
+_usr_bin_uniq:19403	0:42.64	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31248	0:03.77	1
+_usr_bin_tee:5459	0:40.98	0
+_usr_bin_du:10570	0:48.76	0
+_usr_bin_partx:48553	0:44.64	0
+_usr_bin_install:43075	0:47.67	0
+_usr_bin_dijkstra:50363	0:44.91	0
+_usr_bin_pdfinfo:6954	2:15.34	0
+_usr_bin_dircolors:43699	0:41.68	0
+_usr_bin_grub-mklayout:26448	1:00.34	0
+_usr_bin_pdftotext:1474	2:09.36	0
+_usr_bin_pdftotext:1585	2:17.51	0
+_usr_bin_ruby1.9.1:2839	5:43.47	0
+_usr_bin_dircolors:43390	0:41.95	0
+zzuf[s=1270,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21598	0:20.26	1
+_usr_bin_lav2yuv:39649	0:57.77	0
+_usr_bin_pbmtomda:33045	0:41.88	0
+_usr_bin_fc-validate:63154	0:55.49	0
+_usr_bin_make:51968	0:46.62	0
+_usr_bin_metaflac:24923	0:44.97	0
+_usr_bin_vmtoolsd:58091	2:20.99	0
+_usr_bin_ruby1.9.1:2660	5:41.31	0
+_usr_bin_vmtoolsd:58642	2:20.58	0
+_usr_bin_yuvcorrect_tune:36480	0:44.09	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30545	0:00.20	1
+_usr_bin_pdffonts:65275	2:13.85	0
+_usr_bin_gv2gml:14018	0:47.69	0
+_usr_bin_pdftotext:1142	2:10.23	0
+_usr_bin_pdffonts:65238	2:14.99	0
+_usr_bin_pbmtomda:32903	0:41.55	0
+_usr_bin_yuvcorrect_tune:36363	0:43.43	0
+_usr_bin_sha256sum:550	0:41.81	0
+_usr_bin_nl:15523	0:42.39	0
+_usr_bin_scriptreplay:12535	0:39.78	0
+_usr_bin_grub-mount:53037	1:03.56	0
+_usr_bin_lexgrog:54459	1:33.42	0
+_usr_bin_pgmslice:47168	0:42.35	0
+_usr_bin_patch:61042	0:57.73	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28622	0:00.12	1
+zzuf[s=13,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56427	0:00.77	1
+_usr_bin_lav2yuv:39786	0:57.45	0
+_usr_bin_gv2gml:13615	1:04.57	0
+_usr_bin_nl:15674	0:43.08	0
+_usr_bin_ginstall-info:29527	0:41.00	0
+_usr_bin_pbmtomda:33101	0:41.94	0
+_usr_bin_gawk:5244	0:51.49	0
+_usr_bin_grub-glue-efi:7666	0:59.69	0
+_usr_bin_make:52049	0:44.59	0
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=697,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=804,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=961,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1201,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1353,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31498	0:05.04	1
+_usr_bin_grub-mklayout:26798	0:59.02	0
+_usr_bin_pbmreduce:44411	0:42.12	0
+zzuf[s=3126,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21584	16:14.76	1
+_usr_bin_pbmtomda:32811	0:41.74	0
+_usr_bin_yuvcorrect_tune:36804	0:43.48	0
+_usr_bin_make:51867	0:44.94	0
+_usr_bin_grub-glue-efi:7979	0:59.32	0
+_usr_bin_du:10585	0:50.66	0
+_usr_bin_pdfinfo:6395	2:11.56	0
+_usr_bin_gpgsplit:18554	0:46.77	0
+zzuf[s=0,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=10,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=12,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=13,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_lexgrog:54443	0:04.45	1
+_usr_bin_pdffonts:64775	2:22.41	0
+_usr_bin_dpkg-deb:47346	1:31.77	0
+_usr_bin_pdfimages:37664	2:11.39	0
+_usr_bin_ginstall-info:29976	0:43.16	0
+_usr_bin_pgmslice:46939	0:45.13	0
+_usr_bin_pdfinfo:6961	2:13.55	0
+_usr_bin_scriptreplay:13047	0:39.58	0
+_usr_bin_dijkstra:51051	0:44.38	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28485	0:00.43	1
+_usr_bin_pdftotext:1257	2:15.32	0
+zzuf[s=28,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_tic:30822	0:00.13	1
+_usr_bin_pnmtotiffcmyk:35293	0:50.86	0
+_usr_bin_patch:61346	0:57.16	0
+_usr_bin_du:10836	0:48.95	0
+_usr_bin_pdffonts:65279	2:11.42	0
+_usr_bin_pgmslice:46844	0:42.73	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8832	0:04.55	1
+_usr_bin_gvpr:35131	0:46.16	0
+_usr_bin_nsupdate:16393	4:20.15	0
+_usr_bin_pngtopnm:45183	0:45.53	0
+_usr_bin_pdftotext:1183	2:10.30	0
+zzuf[s=5321,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8366	0:02.64	1
+_usr_bin_patch:61712	0:57.68	0
+_usr_bin_dpkg-deb:48098	0:44.45	0
+_usr_bin_gvgen:37864	0:39.64	0
+_usr_bin_du:10966	0:41.55	0
+_usr_bin_du:11202	0:49.33	0
+_usr_bin_shred:4323	2:39.57	0
+_usr_bin_codepage:41023	1:08.37	0
+zzuf[s=70,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18767	0:00.12	1
+_usr_bin_md5sum:11524	0:40.66	0
+_usr_bin_lav2yuv:39753	0:59.90	0
+_usr_bin_pdffonts:65187	2:11.71	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31348	0:03.82	1
+_usr_bin_strings:40145	1:06.35	0
+_usr_bin_lexgrog:54115	1:58.10	0
+_usr_bin_dpkg:30439	1:24.94	0
+_usr_bin_pdfimages:37333	2:27.05	0
+_usr_bin_gvpr:34337	0:44.92	0
+_usr_bin_shred:4443	2:36.43	0
+_usr_bin_grub-mklayout:26599	0:57.63	0
+_usr_bin_pgrep:64281	0:42.04	0
+_usr_bin_ruby1.9.1:2163	5:40.34	0
+_usr_bin_tee:6194	0:41.61	0
+_usr_bin_ginstall-info:29841	1:08.68	0
+_usr_bin_tee:5979	0:40.45	0
+_usr_bin_fc-validate:63307	1:03.47	0
+_usr_bin_uniq:19453	0:40.82	0
+_usr_bin_sccmap:50084	0:44.03	0
+_usr_bin_pdfimages:37377	2:12.33	0
+_usr_bin_codepage:41265	0:46.75	0
+_usr_bin_strings:40343	1:16.75	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8539	0:04.33	1
+_usr_bin_expand:23228	0:40.20	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=3,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28712	0:00.12	1
+_usr_bin_lexgrog:54559	1:31.16	0
+_usr_bin_pgmslice:46347	0:41.54	0
+zzuf[s=2,r=0.001:0.5]: signal 7 (SIGBUS)
+zzuf[s=1,r=0.001:0.5]: signal 7 (SIGBUS)
+zzuf[s=3,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56026	0:00.27	1
+_usr_bin_patch:60955	0:57.69	0
+_usr_bin_grub-file:59137	1:14.28	0
+_usr_bin_dpkg-deb:47810	1:30.92	0
+_usr_bin_fc-cat:42303	2:33.50	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30544	0:00.58	1
+_usr_bin_scriptreplay:12998	0:38.92	0
+_usr_bin_unexpand:25383	0:40.77	0
+_usr_bin_pbmreduce:44543	0:41.93	0
+_usr_bin_lexgrog:54417	3:09.58	0
+_usr_bin_tee:5343	0:40.77	0
+_usr_bin_codepage:41242	0:41.67	0
+_usr_bin_yuvcorrect_tune:36536	0:47.31	0
+_usr_bin_sha256sum:924	0:42.85	0
+_usr_bin_pdfinfo:6648	2:12.72	0
+_usr_bin_codepage:41742	1:08.61	0
+_usr_bin_sha256sum:460	0:41.03	0
+_usr_bin_pnmtotiffcmyk:35297	0:47.70	0
+_usr_bin_dot:55151	2:03.55	0
+_usr_bin_wget:21295	0:53.49	0
+_usr_bin_vmtoolsd:58491	2:06.16	0
+_usr_bin_shred:4927	2:05.23	0
+_usr_bin_pgmslice:46600	0:41.85	0
+_usr_bin_metaflac:24178	0:45.21	0
+_usr_bin_strings:40529	0:51.77	0
+_usr_bin_sort:20556	0:45.87	0
+_usr_bin_dpkg-deb:47461	0:43.04	0
+_usr_bin_pdfimages:37708	2:10.22	0
+_usr_bin_fc-validate:63757	1:03.59	0
+_usr_bin_vmtoolsd:58459	2:18.17	0
+_usr_bin_pgrep:64382	0:42.54	0
+zzuf[s=281,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=537,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=579,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1121,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1745,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2022,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31598	0:06.59	1
+_usr_bin_uniq:19515	0:43.08	0
+_usr_bin_dwp:60775	0:50.73	0
+_usr_bin_vmtoolsd:58738	2:06.35	0
+_usr_bin_ginstall-info:29965	0:42.83	0
+_usr_bin_grub-glue-efi:7865	0:58.67	0
+_usr_bin_grub-mount:53108	1:03.99	0
+_usr_bin_uniq:19514	0:41.28	0
+_usr_bin_dijkstra:50273	1:07.08	0
+_usr_bin_file:27843	0:44.71	0
+_usr_bin_dwp:60299	0:50.16	0
+_usr_bin_pdffonts:65106	2:12.76	0
+_usr_bin_shred:4367	2:06.01	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:29206	0:00.16	1
+zzuf[s=70,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:51895	0:00.12	1
+_usr_bin_pdfimages:37417	2:12.00	0
+_usr_bin_sccmap:49322	0:43.25	0
+_usr_bin_dircolors:43799	0:40.93	0
+_usr_bin_grub-glue-efi:7688	0:58.79	0
+_usr_bin_partx:48344	0:43.33	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28523	0:00.31	1
+_usr_bin_uniq:19535	0:42.38	0
+_usr_bin_md5sum:11606	0:42.17	0
+zzuf[s=4649,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1638,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3814,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30874	0:05.40	1
+_usr_bin_pdffonts:64854	2:09.58	0
+_usr_bin_ginstall-info:30117	1:27.66	0
+_usr_bin_file:27594	0:54.76	0
+_usr_bin_shred:4530	2:43.77	0
+_usr_bin_sha256sum:643	0:40.91	0
+_usr_bin_metaflac:24859	0:46.52	0
+_usr_bin_head:46146	0:41.08	0
+zzuf[s=149,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56653	0:00.28	1
+_usr_bin_ginstall-info:29710	0:39.34	0
+_usr_bin_dircolors:43977	0:41.18	0
+_usr_bin_pbmreduce:44566	0:41.95	0
+_usr_bin_expand:23224	0:40.39	0
+_usr_bin_dpkg-deb:48055	1:29.53	0
+_usr_bin_dpkg-deb:47721	1:30.22	0
+_usr_bin_metaflac:24193	0:45.77	0
+_usr_bin_lav2yuv:39537	0:56.63	0
+_usr_bin_dircolors:43572	0:44.36	0
+_usr_bin_gpgsplit:18401	0:52.06	0
+_usr_bin_sha256sum:836	0:42.00	0
+zzuf[s=109,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55976	0:00.19	1
+_usr_bin_lav2yuv:39606	0:56.72	0
+_usr_bin_head:46024	0:40.50	0
+_usr_bin_pmap:34181	0:41.88	0
+_usr_bin_grub-file:59731	1:14.71	0
+_usr_bin_head:45988	0:41.88	0
+_usr_bin_xauth:23316	2:30.39	0
+_usr_bin_tee:5563	0:40.82	0
+_usr_bin_pnmcolormap:17253	0:43.05	0
+_usr_bin_grub-glue-efi:7943	0:59.27	0
+zzuf[s=53155,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_codepage:41410	0:29.12	1
+_usr_bin_gvmap:35971	0:45.74	0
+_usr_bin_metaflac:24483	0:45.70	0
+_usr_bin_gvpr:35189	0:45.89	0
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_oggenc:62786	0:00.20	1
+_usr_bin_file:27903	0:49.73	0
+_usr_bin_grub-glue-efi:7611	0:59.03	0
+_usr_bin_dpkg:30348	1:25.91	0
+_usr_bin_sha256sum:480	0:41.34	0
+_usr_bin_pdfimages:37230	2:10.73	0
+_usr_bin_pdffonts:64939	2:11.99	0
+_usr_bin_grub-mklayout:26454	0:58.07	0
+zzuf[s=195,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55941	0:00.91	1
+_usr_bin_pdffonts:64996	2:13.21	0
+_usr_bin_dot:55365	2:04.18	0
+_usr_bin_pgmslice:46501	0:41.96	0
+_usr_bin_sha256sum:21	0:42.55	0
+_usr_bin_sccmap:49912	0:43.29	0
+_usr_bin_dircolors:43296	0:41.96	0
+_usr_bin_fc-cat:42100	2:33.67	0
+_usr_bin_codepage:41171	0:40.49	0
+_usr_bin_sha224sum:9337	0:47.71	0
+_usr_bin_pbmtomda:32613	0:41.37	0
+_usr_bin_rawtopgm:33746	0:42.53	0
+_usr_bin_pgmslice:47188	0:41.83	0
+zzuf[s=246,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9049	0:00.29	1
+_usr_bin_lav2yuv:38944	0:56.87	0
+_usr_bin_sha224sum:9787	0:41.04	0
+_usr_bin_pdfimages:37509	2:11.11	0
+_usr_bin_dpkg-query:26097	0:45.80	0
+_usr_bin_wget:21329	1:36.10	0
+_usr_bin_pnmtotiffcmyk:35315	0:48.67	0
+_usr_bin_localedef:29070	0:40.92	0
+_usr_bin_md5sum:12255	1:33.01	0
+_usr_bin_pdfinfo:6470	2:14.01	0
+_usr_bin_make:51828	0:45.96	0
+_usr_bin_dircolors:43803	2:49.49	0
+_usr_bin_pgmslice:47204	0:46.43	0
+_usr_bin_uniq:19548	0:44.16	0
+_usr_bin_gpgsplit:18398	0:58.15	0
+_usr_bin_sccmap:50026	0:48.18	0
+_usr_bin_pbmtomda:33526	0:47.27	0
+_usr_bin_pbmtomda:33042	0:44.65	0
+_usr_bin_codepage:41511	0:43.87	0
+_usr_bin_gvpr:34436	0:47.07	0
+_usr_bin_shred:4928	2:10.93	0
+_usr_bin_shred:4931	2:04.31	0
+_usr_bin_md5sum:11860	0:44.67	0
+_usr_bin_oggenc:62368	0:51.93	0
+_usr_bin_pdffonts:65087	2:14.29	0
+_usr_bin_sccmap:49672	0:48.55	0
+zzuf[s=0,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=4,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=5,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_expand:22428	0:49.75	1
+_usr_bin_lav2yuv:39291	1:01.19	0
+_usr_bin_dircolors:43308	0:46.94	0
+_usr_bin_pbmtomda:33510	0:44.13	0
+_usr_bin_dijkstra:50956	0:50.00	0
+_usr_bin_sccmap:49627	0:47.14	0
+_usr_bin_dpkg-statoverride:17937	0:48.28	0
+_usr_bin_pbmreduce:45034	0:45.50	0
+_usr_bin_yuvcorrect_tune:36488	0:49.48	0
+_usr_bin_unexpand:25603	0:43.57	0
+zzuf[s=374,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3366,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_du:11321	0:09.31	1
+_usr_bin_pdffonts:64954	2:15.08	0
+_usr_bin_grub-mount:53224	1:09.74	0
+_usr_bin_grub-file:59290	1:17.53	0
+_usr_bin_partx:48290	0:48.53	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28737	0:00.09	1
+_usr_bin_dircolors:43293	0:45.42	0
+_usr_bin_expand:22653	0:44.24	0
+_usr_bin_wget:21235	1:02.69	0
+_usr_bin_nsupdate:16434	4:45.59	0
+_usr_bin_dwp:60199	0:55.47	0
+_usr_bin_yuvcorrect_tune:36712	0:46.20	0
+zzuf[s=964,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8424	0:00.58	1
+_usr_bin_nl:14747	11:41.64	0
+_usr_bin_grub-file:59333	1:17.32	0
+_usr_bin_dot:55636	2:04.92	0
+_usr_bin_sccmap:49855	0:47.50	0
+_usr_bin_pdftotext:2013	2:11.65	0
+_usr_bin_lsattr:33615	0:44.06	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8256	0:04.46	1
+_usr_bin_md5sum:11669	0:44.79	0
+_usr_bin_codepage:41483	0:41.25	0
+_usr_bin_pdftotext:1621	2:14.44	0
+_usr_bin_uniq:19665	1:05.45	0
+_usr_bin_grub-mount:53427	1:06.43	0
+zzuf[s=53155,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_codepage:41312	0:29.41	1
+_usr_bin_vmtoolsd:58426	2:25.24	0
+_usr_bin_file:27655	1:14.16	0
+_usr_bin_dircolors:43324	0:44.81	0
+_usr_bin_ginstall-info:29452	0:41.31	0
+_usr_bin_uniq:20049	0:43.82	0
+_usr_bin_gvmap:35341	0:51.03	0
+_usr_bin_partx:48705	0:47.30	0
+_usr_bin_nl:15284	0:43.96	0
+_usr_bin_ruby1.9.1:2194	5:44.35	0
+_usr_bin_fc-cat:42784	2:39.08	0
+zzuf[s=4742,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:35116	0:05.49	1
+_usr_bin_head:45355	0:43.81	0
+_usr_bin_pdfinfo:6408	2:16.82	0
+_usr_bin_vmtoolsd:58612	2:21.97	0
+_usr_bin_make:51565	0:48.95	0
+_usr_bin_fc-validate:63438	1:10.03	0
+_usr_bin_oggenc:62373	0:47.93	0
+_usr_bin_oggenc:62135	0:52.57	0
+_usr_bin_vmtoolsd:58815	2:10.20	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8634	0:04.93	1
+_usr_bin_md5sum:11961	1:03.41	0
+_usr_bin_pdfimages:37197	2:13.60	0
+zzuf[s=3988,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_apt-mark:10479	0:05.00	1
+_usr_bin_grub-file:59711	1:14.32	0
+_usr_bin_dwp:60367	0:51.20	0
+_usr_bin_sha224sum:9148	0:43.03	0
+_usr_bin_pdffonts:65199	2:13.75	0
+_usr_bin_md5sum:12340	0:40.25	0
+_usr_bin_pbmtomda:32842	0:41.31	0
+zzuf[s=8868,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8622	0:04.79	1
+_usr_bin_lexgrog:54288	1:34.61	0
+_usr_bin_expand:22734	0:40.50	0
+_usr_bin_pbmreduce:44549	0:42.07	0
+_usr_bin_dpkg-statoverride:17857	0:44.47	0
+_usr_bin_dot:55277	1:58.31	0
+_usr_bin_uniq:19719	0:40.81	0
+_usr_bin_yuvcorrect_tune:36500	0:43.60	0
+zzuf[s=1302,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:51606	0:00.71	1
+_usr_bin_patch:61033	0:57.61	0
+_usr_bin_pgmslice:46740	0:41.77	0
+_usr_bin_apt-mark:10203	1:44.12	0
+_usr_bin_md5sum:11598	0:42.49	0
+zzuf[s=90601,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-mark:10208	1:34.44	1
+_usr_bin_pbmtomda:32890	0:41.57	0
+_usr_bin_vmtoolsd:58398	2:18.83	0
+_usr_bin_codepage:41063	0:41.05	0
+_usr_bin_codepage:40936	1:08.99	0
+_usr_bin_tee:5352	0:40.72	0
+_usr_bin_nl:15475	0:41.27	0
+_usr_bin_make:51986	0:46.04	0
+_usr_bin_pdfinfo:6424	2:09.96	0
+_usr_bin_pnmcolormap:17483	0:41.93	0
+_usr_bin_md5sum:11673	0:41.70	0
+_usr_bin_nsupdate:16527	3:54.86	0
+_usr_bin_file:27619	0:49.74	0
+zzuf[s=1625,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2036,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2281,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3222,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31592	0:05.22	1
+_usr_bin_shred:4379	2:07.18	0
+_usr_bin_grub-mount:53510	1:03.18	0
+_usr_bin_lexgrog:54576	1:33.65	0
+_usr_bin_sha224sum:9187	0:41.28	0
+_usr_bin_sha224sum:9262	0:41.48	0
+_usr_bin_md5sum:12445	0:42.21	0
+_usr_bin_expand:22845	0:40.41	0
+_usr_bin_nsupdate:16193	3:51.57	0
+_usr_bin_dot:55278	1:58.21	0
+_usr_bin_pbmtomda:32851	0:41.52	0
+_usr_bin_scriptreplay:12638	0:39.45	0
+_usr_bin_patch:61277	0:43.02	0
+_usr_bin_nsupdate:16395	4:17.98	0
+_usr_bin_codepage:41008	1:10.17	0
+_usr_bin_unexpand:25599	0:42.63	0
+_usr_bin_nsupdate:16610	3:53.18	0
+_usr_bin_look:51398	0:38.22	0
+_usr_bin_pdfimages:36904	2:13.27	0
+_usr_bin_sort:20806	0:44.47	0
+_usr_bin_dwp:60280	0:55.06	0
+_usr_bin_pdftotext:1228	2:12.73	0
+_usr_bin_metaflac:24059	0:43.53	0
+_usr_bin_expand:22387	0:40.86	0
+_usr_bin_md5sum:11755	0:43.58	0
+_usr_bin_grub-mount:53779	1:03.63	0
+_usr_bin_sha256sum:506	0:42.37	0
+_usr_bin_partx:48339	0:44.41	0
+_usr_bin_make:52420	0:47.06	0
+_usr_bin_gpgsplit:18539	0:42.12	0
+_usr_bin_ruby1.9.1:2883	5:38.39	0
+_usr_bin_gvmap:36013	0:44.99	0
+_usr_bin_lexgrog:53944	1:31.15	0
+_usr_bin_ruby1.9.1:2511	5:41.83	0
+_usr_bin_ruby1.9.1:3081	5:39.05	0
+_usr_bin_head:46143	0:41.63	0
+_usr_bin_make:52115	0:46.35	0
+_usr_bin_vmtoolsd:58490	2:06.46	0
+_usr_bin_metaflac:24004	0:43.70	0
+_usr_bin_sha256sum:706	0:45.19	0
+_usr_bin_sha256sum:666	0:41.57	0
+_usr_bin_dircolors:43875	0:41.98	0
+_usr_bin_ppmlabel:45105	0:41.25	0
+_usr_bin_pbmreduce:44714	0:43.12	0
+zzuf[s=1366,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=873,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=966,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31514	0:03.96	1
+_usr_bin_lav2yuv:38974	1:00.87	0
+zzuf[s=30553,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:52406	0:14.23	1
+_usr_bin_uniq:19837	0:40.40	0
+_usr_bin_du:10934	0:40.58	0
+_usr_bin_file:27997	0:50.77	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52702	0:04.41	1
+_usr_bin_grub-glue-efi:7457	0:59.35	0
+_usr_bin_strings:39919	0:50.05	0
+zzuf[s=964,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9110	0:00.54	1
+zzuf[s=94550,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_apt-get:33965	1:37.95	1
+_usr_bin_uniq:19314	0:41.43	0
+_usr_bin_expand:22400	0:40.53	0
+_usr_bin_lav2yuv:39311	0:58.68	0
+_usr_bin_strings:40129	0:51.00	0
+_usr_bin_sha224sum:9436	0:42.57	0
+_usr_bin_ginstall-info:30295	0:40.20	0
+_usr_bin_wget:21313	0:55.02	0
+_usr_bin_sha224sum:9468	0:42.25	0
+_usr_bin_du:10693	0:48.46	0
+_usr_bin_dwp:60203	0:50.31	0
+_usr_bin_fc-validate:63488	1:04.49	0
+_usr_bin_strings:40064	0:53.60	0
+zzuf[s=5321,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8856	0:02.55	1
+zzuf[s=166,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18723	0:00.27	1
+_usr_bin_grub-file:58988	1:14.13	0
+_usr_bin_nsupdate:16396	4:17.86	0
+_usr_bin_fc-cat:42797	2:33.99	0
+_usr_bin_patch:61750	0:57.32	0
+_usr_bin_gawk:5113	0:48.18	0
+_usr_bin_sha224sum:9335	0:42.33	0
+_usr_bin_lav2yuv:39209	1:00.36	0
+_usr_bin_uniq:19497	1:14.79	0
+_usr_bin_lexgrog:53928	2:51.99	0
+_usr_bin_gpgsplit:18428	0:44.28	0
+_usr_bin_pdfimages:36842	2:13.85	0
+_usr_bin_strings:40748	0:48.88	0
+_usr_bin_dijkstra:51156	0:44.19	0
+zzuf[s=3988,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-get:33961	0:04.97	1
+_usr_bin_gv2gml:13528	1:05.33	0
+_usr_bin_scriptreplay:13108	0:39.49	0
+_usr_bin_gvmap:35996	0:44.51	0
+_usr_bin_grub-glue-efi:7744	0:58.07	0
+_usr_bin_expand:22829	1:09.36	0
+_usr_bin_sort:20293	0:50.68	0
+_usr_bin_partx:48430	0:44.18	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_column:30558	0:00.09	1
+_usr_bin_pdftotext:1975	2:10.41	0
+_usr_bin_sort:20999	0:51.60	0
+_usr_bin_dpkg-query:26011	0:45.31	0
+_usr_bin_grub-mklayout:26784	0:57.95	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28828	0:00.09	1
+_usr_bin_dot:55753	1:57.00	0
+_usr_bin_ginstall-info:30199	0:42.60	0
+_usr_bin_dpkg-statoverride:18220	0:44.61	0
+_usr_bin_pdftotext:2052	2:08.62	0
+_usr_bin_dot:55089	2:01.73	0
+_usr_bin_apt-sortpkgs:23736	1:38.09	0
+_usr_bin_nl:15402	0:42.06	0
+_usr_bin_dwp:60522	0:50.71	0
+_usr_bin_metaflac:24341	0:44.64	0
+zzuf[s=13945,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8305	0:06.63	1
+_usr_bin_apt-mark:10313	1:45.11	0
+_usr_bin_pbmreduce:44084	0:43.10	0
+_usr_bin_gvpr:34963	0:45.92	0
+_usr_bin_pmap:34174	0:43.01	0
+zzuf[s=708,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_palmtopnm:28192	0:00.43	1
+zzuf[s=30553,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51818	0:13.69	1
+_usr_bin_pg:46220	0:42.75	0
+_usr_bin_gpgsplit:18495	0:52.02	0
+_usr_bin_file:27622	0:50.20	0
+_usr_bin_file:27930	0:47.18	0
+_usr_bin_sha256sum:486	0:42.28	0
+_usr_bin_dwp:60525	0:50.43	0
+_usr_bin_dwp:60087	0:51.80	0
+_usr_bin_lexgrog:54012	1:30.71	0
+_usr_bin_gvmap:35837	0:45.39	0
+_usr_bin_sha256sum:357	0:41.78	0
+_usr_bin_grub-file:58966	1:14.94	0
+_usr_bin_ruby1.9.1:2514	5:43.88	0
+_usr_bin_lexgrog:54165	1:33.55	0
+_usr_bin_vmtoolsd:58045	2:29.42	0
+_usr_bin_dwp:60110	0:50.61	0
+_usr_bin_oggenc:62707	0:48.00	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28609	0:00.37	1
+_usr_bin_dot:55546	1:58.70	0
+_usr_bin_file:27451	1:18.09	0
+_usr_bin_patch:61089	0:56.79	0
+zzuf[s=1625,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8684	0:00.87	1
+_usr_bin_pdftotext:1295	2:10.82	0
+_usr_bin_dijkstra:51023	0:48.68	0
+_usr_bin_codepage:40985	1:08.59	0
+_usr_bin_apt-mark:10311	1:45.40	0
+_usr_bin_pdftotext:1351	2:13.99	0
+_usr_bin_yuvcorrect_tune:36764	0:42.59	0
+_usr_bin_oggenc:62245	0:49.35	0
+_usr_bin_gxl2gv:41849	0:45.55	0
+_usr_bin_patch:61792	0:57.26	0
+_usr_bin_dwp:60675	0:51.87	0
+_usr_bin_fc-cat:42291	2:35.34	0
+_usr_bin_pgmslice:47009	0:43.07	0
+_usr_bin_lav2yuv:39645	1:00.94	0
+_usr_bin_strings:40398	0:49.48	0
+_usr_bin_gvmap:35792	0:44.90	0
+_usr_bin_tee:5926	0:40.68	0
+_usr_bin_pdfinfo:6434	2:08.78	0
+_usr_bin_shred:4152	2:05.48	0
+_usr_bin_apt-sortpkgs:23934	1:39.14	0
+_usr_bin_codepage:41640	0:41.58	0
+_usr_bin_grub-mklayout:26398	0:58.22	0
+_usr_bin_nsupdate:16378	4:22.04	0
+_usr_bin_pbmreduce:44242	0:41.99	0
+_usr_bin_lsattr:33667	0:44.74	0
+_usr_bin_pdftotext:1779	2:11.03	0
+_usr_bin_pbmreduce:44283	0:42.36	0
+_usr_bin_apt-mark:10152	1:43.08	0
+_usr_bin_du:11111	0:49.54	0
+_usr_bin_dwp:60613	0:50.43	0
+_usr_bin_head:45865	0:40.31	0
+_usr_bin_pnmcolormap:17675	0:42.55	0
+_usr_bin_lexgrog:54815	1:34.90	0
+zzuf[s=13322,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gvmap:35704	0:08.01	1
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28956	0:00.10	1
+zzuf[s=6,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55940	0:00.10	1
+_usr_bin_pgrep:64222	0:42.85	0
+_usr_bin_oggenc:62488	0:47.65	0
+_usr_bin_lexgrog:53907	1:32.17	0
+_usr_bin_oggenc:62306	0:48.28	0
+_usr_bin_md5sum:12138	0:41.66	0
+_usr_bin_lexgrog:54202	1:32.82	0
+_usr_bin_dot:55332	1:59.37	0
+_usr_bin_pdfimages:37119	2:15.61	0
+_usr_bin_head:45719	0:40.23	0
+zzuf[s=777,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=793,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=819,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=913,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1227,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1637,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31575	0:05.99	1
+_usr_bin_pnmcolormap:17451	0:42.45	0
+_usr_bin_partx:49085	0:45.50	0
+_usr_bin_lexgrog:54692	1:32.73	0
+_usr_bin_tee:5800	0:40.51	0
+zzuf[s=2198,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2374,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2390,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_localedef:29049	0:04.47	1
+_usr_bin_dijkstra:51176	0:43.82	0
+_usr_bin_ruby1.9.1:2896	5:38.25	0
+_usr_bin_fc-validate:63742	0:55.42	0
+_usr_bin_tee:5794	0:41.86	0
+_usr_bin_tee:5853	0:40.91	0
+zzuf[s=14054,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18875	0:06.17	1
+_usr_bin_tee:5781	0:41.02	0
+_usr_bin_ruby1.9.1:2208	5:39.22	0
+_usr_bin_fc-validate:63677	1:03.28	0
+_usr_bin_dpkg:30502	0:52.03	0
+zzuf[s=665,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61605	0:00.46	1
+_usr_bin_pgmslice:46531	0:42.13	0
+_usr_bin_pdftotext:1759	2:08.78	0
+_usr_bin_md5sum:11925	0:41.21	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52811	0:04.73	1
+_usr_bin_pgmslice:46357	0:42.39	0
+_usr_bin_vmtoolsd:58494	2:07.59	0
+_usr_bin_vmtoolsd:58202	2:20.17	0
+zzuf[s=6,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=724,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2051,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2105,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2686,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30692	0:05.87	1
+_usr_bin_dwp:60327	0:50.63	0
+_usr_bin_strings:39930	0:48.75	0
+_usr_bin_grub-file:59794	1:15.14	0
+_usr_bin_pdfimages:37391	3:03.06	0
+_usr_bin_codepage:41700	0:40.28	0
+_usr_bin_vmtoolsd:58484	2:06.67	0
+_usr_bin_grub-file:59242	1:14.32	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28339	0:00.21	1
+_usr_bin_sha224sum:9176	0:41.36	0
+_usr_bin_pgmslice:46657	0:44.44	0
+_usr_bin_fc-validate:63340	1:06.02	0
+_usr_bin_pdffonts:64584	2:11.78	0
+_usr_bin_lexgrog:54022	1:29.45	0
+_usr_bin_partx:48701	0:44.14	0
+_usr_bin_sccmap:50209	0:45.51	0
+_usr_bin_lexgrog:54426	1:31.71	0
+_usr_bin_nl:15053	0:41.78	0
+_usr_bin_sccmap:49486	1:05.63	0
+_usr_bin_pmap:34203	0:42.03	0
+_usr_bin_uniq:19779	0:41.55	0
+_usr_bin_head:46169	0:41.09	0
+_usr_bin_lav2yuv:38900	0:56.17	0
+zzuf[s=3556,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8468	0:01.79	1
+_usr_bin_scriptreplay:12530	0:39.18	0
+_usr_bin_dircolors:43705	2:40.73	0
+zzuf[s=30,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=25,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=236,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=329,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=571,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=607,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31286	0:04.11	1
+_usr_bin_dot:55778	1:56.88	0
+_usr_bin_pdffonts:64763	2:10.99	0
+_usr_bin_unexpand:25203	0:40.65	0
+zzuf[s=5161,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-get:34015	0:06.21	1
+_usr_bin_fc-cat:42408	2:35.13	0
+_usr_bin_nl:15488	0:44.11	0
+_usr_bin_pnmcolormap:16973	0:42.80	0
+_usr_bin_pdfinfo:6768	2:08.96	0
+_usr_bin_metaflac:24439	0:44.55	0
+_usr_bin_dircolors:43568	0:41.59	0
+_usr_bin_patch:61060	0:56.04	0
+_usr_bin_sort:20358	0:46.54	0
+zzuf[s=1625,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2036,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2281,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=3222,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31396	0:05.73	1
+_usr_bin_pnmcolormap:17079	0:42.67	0
+_usr_bin_lav2yuv:39444	0:56.44	0
+_usr_bin_lexgrog:54642	1:32.50	0
+zzuf[s=6406,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18968	0:02.92	1
+_usr_bin_strings:40181	0:48.84	0
+_usr_bin_shred:4817	2:07.34	0
+zzuf[s=942,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=948,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1299,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1395,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1505,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1510,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30748	0:04.12	1
+_usr_bin_fc-validate:63764	1:05.75	0
+_usr_bin_pic:6339	0:53.73	0
+_usr_bin_strings:39957	0:49.02	0
+_usr_bin_strings:40444	1:05.98	0
+_usr_bin_strings:40387	0:53.27	0
+zzuf[s=92,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56316	0:00.28	1
+_usr_bin_metaflac:24434	0:47.28	0
+_usr_bin_expand:22366	0:40.33	0
+_usr_bin_gxl2gv:41863	0:45.06	0
+_usr_bin_sha224sum:9546	0:42.01	0
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=6,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28948	0:00.14	1
+_usr_bin_sha256sum:584	0:41.61	0
+_usr_bin_lzmainfo:56836	0:43.79	0
+_usr_bin_pbmreduce:44170	0:42.89	0
+_usr_bin_pbmtomda:32813	0:42.19	0
+_usr_bin_lexgrog:53865	3:00.38	0
+_usr_bin_strings:40350	0:51.57	0
+_usr_bin_pdffonts:64508	2:14.85	0
+_usr_bin_sha256sum:779	0:43.56	0
+_usr_bin_gvpr:34715	0:45.82	0
+_usr_bin_make:52478	0:46.81	0
+_usr_bin_sort:21059	0:52.21	0
+_usr_bin_pnmcolormap:17001	0:42.29	0
+_usr_bin_dpkg-deb:47965	0:42.86	0
+zzuf[s=82,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59625	0:00.15	1
+_usr_bin_gawk:5256	0:50.17	0
+_usr_bin_lexgrog:54088	1:33.61	0
+_usr_bin_grotty:16732	0:57.44	0
+_usr_bin_ppmhist:1074	0:41.85	0
+_usr_bin_uniq:20188	0:40.72	0
+_usr_bin_sha256sum:154	0:41.76	0
+_usr_bin_gv2gml:13661	1:04.24	0
+_usr_bin_pdfimages:37236	2:09.95	0
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:29144	0:00.31	1
+_usr_bin_fc-cat:42810	2:34.92	0
+_usr_bin_sha256sum:903	0:42.23	0
+_usr_bin_nl:15499	0:42.24	0
+_usr_bin_dwp:60804	0:50.80	0
+_usr_bin_expand:22614	0:40.76	0
+_usr_bin_pgmslice:46804	0:44.67	0
+_usr_bin_sha224sum:9938	0:41.79	0
+_usr_bin_unexpand:25930	0:49.23	0
+zzuf[s=86,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56074	0:00.17	1
+_usr_bin_nl:15396	0:42.90	0
+_usr_bin_oggenc:62516	0:48.51	0
+_usr_bin_install:42914	0:46.83	0
+_usr_bin_pgrep:64303	0:42.71	0
+_usr_bin_gv2gml:14093	0:44.26	0
+_usr_bin_unexpand:25324	0:40.57	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28516	0:00.37	1
+_usr_bin_sccmap:50230	0:45.61	0
+_usr_bin_grub-mount:52919	1:04.23	0
+_usr_bin_ginstall-info:30268	0:39.54	0
+_usr_bin_dpkg:30499	0:52.35	0
+_usr_bin_uniq:19762	0:45.25	0
+zzuf[s=286,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56335	0:00.60	1
+zzuf[s=1185,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21600	0:12.53	1
+_usr_bin_sha224sum:9677	0:42.03	0
+zzuf[s=10,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:55958	0:00.10	1
+zzuf[s=417,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56057	0:00.43	1
+_usr_bin_pic:6314	0:56.22	0
+_usr_bin_grub-mount:53129	1:05.03	0
+_usr_bin_gvmap:35439	0:47.62	0
+_usr_bin_gvmap:36286	0:46.31	0
+_usr_bin_expand:22796	0:41.38	0
+_usr_bin_du:10651	0:48.15	0
+_usr_bin_rawtopgm:33685	0:44.94	0
+_usr_bin_lzmainfo:56815	0:41.57	0
+_usr_bin_grub-file:58936	1:14.88	0
+zzuf[s=8422,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31557	0:07.14	1
+_usr_bin_pnmcolormap:17156	0:42.87	0
+_usr_bin_sha224sum:9358	8:14.51	0
+_usr_bin_gv2gml:14013	1:04.71	0
+_usr_bin_install:42974	0:46.17	0
+_usr_bin_gvgen:37799	0:39.67	0
+_usr_bin_dpkg-query:25952	0:45.61	0
+_usr_bin_sha224sum:9717	0:41.97	0
+_usr_bin_partx:49027	0:44.00	0
+_usr_bin_expand:23239	0:43.11	0
+zzuf[s=43284,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:35230	0:22.97	1
+_usr_bin_pnmcolormap:17654	0:42.54	0
+_usr_bin_fc-cat:42292	2:35.22	0
+_usr_bin_dpkg-deb:47317	1:30.36	0
+_usr_bin_ruby1.9.1:2783	5:40.26	0
+_usr_bin_strings:40642	0:49.85	0
+_usr_bin_sha224sum:9773	0:47.20	0
+_usr_bin_make:52285	1:07.43	0
+_usr_bin_pbmtomda:33239	0:41.17	0
+_usr_bin_tee:5637	0:42.00	0
+_usr_bin_pbmtomda:32830	0:41.22	0
+zzuf[s=678,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8306	0:00.41	1
+_usr_bin_grub-file:59549	1:17.99	0
+_usr_bin_sha256sum:274	0:41.50	0
+_usr_bin_sccmap:50211	0:44.20	0
+_usr_bin_shred:4137	1:59.05	0
+_usr_bin_dot:55760	1:58.80	0
+_usr_bin_sha224sum:9927	0:41.48	0
+_usr_bin_dwp:60316	0:50.51	0
+_usr_bin_sha256sum:221	0:42.33	0
+zzuf[s=3348,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8474	0:01.71	1
+_usr_bin_partx:48567	0:43.74	0
+_usr_bin_pdftotext:1633	2:18.28	0
+_usr_bin_file:27447	1:42.40	0
+_usr_bin_uniq:20055	0:56.11	0
+_usr_bin_metaflac:24665	0:45.37	0
+_usr_bin_ogginfo:51265	0:44.27	0
+_usr_bin_pdfinfo:6671	2:09.34	0
+_usr_bin_dircolors:43946	0:40.75	0
+_usr_bin_tee:6051	0:40.70	0
+_usr_bin_strings:39870	0:49.66	0
+_usr_bin_pdfinfo:7114	2:13.86	0
+_usr_bin_pdffonts:64783	2:13.99	0
+_usr_bin_lexgrog:54415	1:31.99	0
+_usr_bin_sort:20791	0:45.49	0
+_usr_bin_shred:4841	2:08.46	0
+_usr_bin_tee:6225	0:40.87	0
+_usr_bin_file:27659	0:52.99	0
+_usr_bin_pgmslice:46984	0:42.01	0
+_usr_bin_lsattr:33639	0:44.52	0
+_usr_bin_unexpand:25273	0:43.07	0
+_usr_bin_pbmtomda:32634	0:40.87	0
+_usr_bin_nl:15061	0:41.25	0
+_usr_bin_grub-mklayout:26930	0:59.86	0
+zzuf[s=314,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56344	0:00.54	1
+_usr_bin_grub-mount:52882	1:02.99	0
+_usr_bin_scriptreplay:12822	0:39.79	0
+_usr_bin_dpkg:30445	0:51.67	0
+_usr_bin_grub-file:59719	1:14.59	0
+_usr_bin_sha256sum:323	0:41.05	0
+_usr_bin_gv2gml:13551	1:04.73	0
+zzuf[s=70,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52091	0:00.13	1
+_usr_bin_pbmtomda:33205	0:41.81	0
+_usr_bin_pbmtomda:32725	0:41.24	0
+_usr_bin_sccmap:49562	0:45.93	0
+_usr_bin_strings:39971	0:49.22	0
+zzuf[s=55665,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_gvpr:35049	0:30.99	1
+_usr_bin_pnmcolormap:16999	0:42.13	0
+_usr_bin_wget:21274	0:54.69	0
+_usr_bin_pnmcolormap:17660	0:42.18	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_unexpand:25765	0:00.12	1
+zzuf[s=1513,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-get:33919	0:01.69	1
+_usr_bin_yuvcorrect_tune:36701	0:42.30	0
+zzuf[s=4833,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8996	0:02.34	1
+_usr_bin_gawk:5099	0:50.72	0
+_usr_bin_dot:55553	1:59.16	0
+_usr_bin_partx:48584	0:45.42	0
+zzuf[s=22905,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_apt-get:33922	0:24.01	1
+_usr_bin_tred:2151	0:47.12	0
+_usr_bin_dpkg-statoverride:17868	0:44.82	0
+_usr_bin_ginstall-info:29937	0:41.98	0
+_usr_bin_lexgrog:54664	1:32.11	0
+_usr_bin_sha224sum:10055	0:41.94	0
+_usr_bin_sccmap:49485	1:05.36	0
+_usr_bin_scriptreplay:12626	0:39.27	0
+_usr_bin_pdffonts:64560	2:10.43	0
+_usr_bin_pnmcolormap:17108	0:42.60	0
+zzuf[s=577,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=616,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=833,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=2193,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30852	0:05.33	1
+_usr_bin_md5sum:11599	1:21.34	0
+_usr_bin_dot:55478	2:13.36	0
+zzuf[s=5524,r=0.001:0.5]: signal 6 (SIGABRT)
+_usr_bin_patch:61506	0:02.76	1
+_usr_bin_shred:4216	0:42.58	0
+_usr_bin_pdfinfo:7319	2:14.40	0
+_usr_bin_dpkg-deb:47858	1:30.82	0
+_usr_bin_pnmcolormap:17344	0:42.42	0
+_usr_bin_dwp:60501	0:50.63	0
+_usr_bin_pgmslice:46842	0:42.34	0
+_usr_bin_uniq:19906	0:41.50	0
+zzuf[s=0,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=1,r=0.001:0.5]: signal 9 (memory exceeded?)
+zzuf[s=2,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28353	0:00.27	1
+_usr_bin_sha256sum:442	0:41.76	0
+_usr_bin_dircolors:43903	0:43.66	0
+_usr_bin_pdfinfo:7070	2:10.46	0
+_usr_bin_dijkstra:50648	0:46.53	0
+_usr_bin_make:51849	0:44.96	0
+_usr_bin_unexpand:25123	0:40.86	0
+_usr_bin_fc-validate:63316	1:02.53	0
+_usr_bin_pdffonts:64593	2:10.04	0
+_usr_bin_vmtoolsd:58070	2:30.57	0
+zzuf[s=26,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=28,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_grub-file:59799	0:00.37	1
+_usr_bin_tee:6108	0:40.88	0
+_usr_bin_pbmreduce:44618	0:41.99	0
+_usr_bin_dpkg-deb:47331	1:30.42	0
+_usr_bin_sha224sum:9771	0:41.57	0
+_usr_bin_sha224sum:9749	39:02.74	0
+_usr_bin_ppmntsc:52499	0:42.33	0
+_usr_bin_dot:55255	1:59.37	0
+_usr_bin_lav2yuv:39559	1:00.41	0
+zzuf[s=9142,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52710	0:04.46	1
+zzuf[s=9075,r=0.001:0.5]: signal 8 (SIGFPE)
+_usr_bin_palmtopnm:28238	0:03.86	1
+_usr_bin_du:10837	0:48.42	0
+_usr_bin_yuvcorrect_tune:36805	0:42.33	0
+_usr_bin_oggenc:62185	0:50.09	0
+_usr_bin_pgmslice:46442	0:42.73	0
+_usr_bin_sha256sum:297	1:18.06	0
+_usr_bin_uniq:20079	0:43.45	0
+_usr_bin_fc-validate:62902	1:02.04	0
+_usr_bin_nl:14936	0:41.82	0
+_usr_bin_sccmap:49709	0:43.68	0
+_usr_bin_ogginfo:51287	0:45.22	0
+_usr_bin_pic:6332	0:54.12	0
+_usr_bin_metaflac:24867	0:44.55	0
+_usr_bin_pgmslice:47000	0:44.57	0
+_usr_bin_file:27575	0:54.23	0
+_usr_bin_pgmslice:46912	0:44.44	0
+_usr_bin_sccmap:49600	0:44.40	0
+_usr_bin_pdfinfo:7032	2:14.06	0
+_usr_bin_pbmreduce:44811	0:42.29	0
+_usr_bin_tee:6105	0:40.85	0
+_usr_bin_wget:21411	0:54.03	0
+_usr_bin_pbmreduce:44990	0:42.31	0
+_usr_bin_grub-mount:52971	1:02.68	0
+_usr_bin_codepage:41288	0:43.71	0
+_usr_bin_pgmslice:47050	0:44.60	0
+_usr_bin_codepage:41498	0:40.31	0
+zzuf[s=30553,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_make:51524	0:14.18	1
+_usr_bin_apt-sortpkgs:23434	1:41.31	0
+_usr_bin_patch:61052	0:57.86	0
+zzuf[s=0,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=2,r=0.001:0.5]: signal 6 (SIGABRT)
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_localedef:28473	0:00.20	1
+_usr_bin_file:27247	1:45.24	0
+_usr_bin_pdfimages:37379	2:14.09	0
+_usr_bin_ruby1.9.1:3121	5:39.74	0
+zzuf[s=9,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21442	0:01.39	1
+_usr_bin_pdfinfo:6870	2:10.29	0
+_usr_bin_gv2gml:13537	1:06.22	0
+_usr_bin_grub-mklayout:26621	1:34.77	0
+_usr_bin_preconv:51412	1:00.20	0
+_usr_bin_sha256sum:391	0:42.15	0
+_usr_bin_sccmap:49992	0:46.09	0
+_usr_bin_nl:14837	0:41.56	0
+_usr_bin_dpkg-deb:47702	1:29.63	0
+_usr_bin_lav2yuv:39421	0:56.63	0
+_usr_bin_make:52100	0:45.70	0
+_usr_bin_fc-cat:42228	2:36.50	0
+_usr_bin_dpkg-statoverride:17938	0:44.95	0
+_usr_bin_pdfinfo:6820	2:14.28	0
+_usr_bin_md5sum:12005	0:41.41	0
+_usr_bin_fc-cat:42586	2:36.01	0
+_usr_bin_md5sum:11584	0:42.86	0
+zzuf[s=141,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56190	0:00.24	1
+_usr_bin_dircolors:43956	0:40.91	0
+_usr_bin_grub-mount:53629	1:02.25	0
+_usr_bin_ppmntsc:52497	0:42.41	0
+_usr_bin_pbmtomda:33141	0:41.10	0
+_usr_bin_gvpr:34553	0:44.68	0
+_usr_bin_grub-mklayout:26282	0:59.19	0
+_usr_bin_dpkg-statoverride:18095	0:44.57	0
+_usr_bin_dircolors:44003	0:41.91	0
+_usr_bin_grub-file:59051	1:14.70	0
+_usr_bin_scriptreplay:13323	0:38.14	0
+_usr_bin_head:45382	0:41.03	0
+_usr_bin_gv2gml:13846	0:45.24	0
+zzuf[s=15297,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_cpp-4.8:52758	0:07.34	1
+_usr_bin_sha224sum:10039	0:42.13	0
+_usr_bin_gvmap:36088	0:44.38	0
+_usr_bin_sha224sum:9902	0:45.24	0
+_usr_bin_grub-mklayout:26675	0:59.43	0
+_usr_bin_fc-cat:42824	2:36.33	0
+_usr_bin_tee:5365	0:41.15	0
+_usr_bin_pgmtoppm:64005	0:39.12	0
+_usr_bin_pbmreduce:44748	0:42.53	0
+_usr_bin_head:45703	0:40.20	0
+_usr_bin_lexgrog:54813	1:31.58	0
+_usr_bin_partx:49104	0:44.12	0
+_usr_bin_dircolors:43172	0:40.67	0
+_usr_bin_nl:15092	0:42.36	0
+_usr_bin_grub-mount:53001	1:03.35	0
+_usr_bin_pgmtoppm:63931	0:41.53	0
+zzuf[s=52,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:8777	0:00.30	1
+_usr_bin_grops:29286	0:56.62	0
+_usr_bin_pgmslice:46388	0:42.33	0
+_usr_bin_dwp:60547	0:51.22	0
+_usr_bin_grub-mklayout:27193	0:59.04	0
+_usr_bin_patch:61682	0:42.31	0
+_usr_bin_pgmslice:46698	0:42.09	0
+_usr_bin_grub-mount:53823	1:02.97	0
+_usr_bin_tee:5850	0:40.76	0
+_usr_bin_lexgrog:54183	1:36.89	0
+zzuf[s=335,r=0.001:0.5]: signal 7 (SIGBUS)
+_usr_bin_ld.gold:56054	0:00.36	1
+_usr_bin_ginstall-info:29470	0:43.31	0
+_usr_bin_ruby1.9.1:2769	5:40.65	0
+zzuf[s=61,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=337,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=437,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=478,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=602,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=756,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30963	0:06.51	1
+_usr_bin_grub-file:59186	1:14.58	0
+_usr_bin_metaflac:24096	0:44.97	0
+_usr_bin_dot:55279	1:58.92	0
+_usr_bin_scriptreplay:12767	0:39.99	0
+_usr_bin_shred:4262	0:42.66	0
+_usr_bin_tee:5867	0:41.00	0
+_usr_bin_pdfimages:37327	2:09.01	0
+_usr_bin_sccmap:50145	0:48.16	0
+zzuf[s=4980,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18838	0:02.51	1
+_usr_bin_sha224sum:9322	0:45.22	0
+_usr_bin_grub-glue-efi:7910	0:59.21	0
+zzuf[s=3,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=4,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=5,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_wget:21515	0:16.18	1
+_usr_bin_pdffonts:65118	2:11.91	0
+_usr_bin_grub-file:58964	1:07.45	0
+zzuf[s=0,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=2,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=1,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_localedef:28578	0:00.16	1
+_usr_bin_dpkg-deb:48268	1:29.94	0
+zzuf[s=3462,r=0.001:0.5]: signal 8 (SIGFPE)
+_usr_bin_palmtopnm:28209	0:01.58	1
+_usr_bin_lav2yuv:39441	0:55.71	0
+_usr_bin_dot:55045	2:01.93	0
+_usr_bin_codepage:40850	0:41.26	0
+_usr_bin_file:27707	0:45.37	0
+_usr_bin_dpkg-deb:47582	0:44.31	0
+_usr_bin_pic:6348	0:54.68	0
+_usr_bin_lav2yuv:39246	0:56.55	0
+zzuf[s=8726,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18778	0:03.95	1
+zzuf[s=1444,r=0.001:0.5]: signal 11 (SIGSEGV)
+zzuf[s=292,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=430,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31392	0:03.85	1
+_usr_bin_grub-mklayout:27115	1:02.41	0
+_usr_bin_head:45510	0:40.68	0
+_usr_bin_scriptreplay:12930	0:40.02	0
+_usr_bin_du:10500	0:48.13	0
+_usr_bin_nsupdate:16344	4:22.49	0
+_usr_bin_sccmap:49728	0:43.87	0
+_usr_bin_vmtoolsd:58639	2:19.76	0
+_usr_bin_pgmslice:47005	0:44.54	0
+_usr_bin_grub-file:59748	1:14.95	0
+_usr_bin_oggenc:62594	0:49.36	0
+_usr_bin_pdfimages:37721	2:13.11	0
+_usr_bin_file:27263	1:13.88	0
+_usr_bin_apt-sortpkgs:23957	1:39.30	0
+_usr_bin_nl:15661	0:41.31	0
+_usr_bin_nsupdate:16285	4:17.74	0
+_usr_bin_metaflac:24080	0:45.62	0
+_usr_bin_unexpand:25091	0:40.91	0
+_usr_bin_du:10636	0:48.11	0
+_usr_bin_patch:60978	0:57.94	0
+zzuf[s=19,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=223,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=663,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=661,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=702,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:30952	0:04.02	1
+_usr_bin_head:46204	0:40.74	0
+_usr_bin_grub-mklayout:26990	0:59.07	0
+zzuf[s=953,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_gpgsplit:18888	0:00.62	1
+_usr_bin_dpkg-statoverride:17832	0:44.69	0
+_usr_bin_lzmainfo:56861	0:42.31	0
+_usr_bin_grotty:16757	0:56.54	0
+_usr_bin_gawk:5118	0:48.86	0
+_usr_bin_pgmslice:46852	0:42.65	0
+_usr_bin_grub-file:59572	1:15.49	0
+_usr_bin_dircolors:44041	0:41.00	0
+zzuf[s=245,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=468,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=686,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=708,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=974,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+zzuf[s=1348,r=0.001:0.5]: signal 24 (SIGXCPU) (CPU time exceeded?)
+_usr_bin_tic:31584	0:05.75	1
+_usr_bin_grub-file:59439	1:14.74	0
+_usr_bin_shred:4840	2:05.95	0
+_usr_bin_sccmap:49898	0:47.26	0
+_usr_bin_dpkg-query:25995	0:45.49	0
+_usr_bin_dpkg-deb:47343	1:30.27	0
+_usr_bin_fc-validate:63818	0:55.46	0
+_usr_bin_pgrep:64272	0:43.23	0
+_usr_bin_pnmcolormap:17524	0:44.22	0
+_usr_bin_sccmap:49277	0:44.97	0
+zzuf[s=9460,r=0.001:0.5]: signal 11 (SIGSEGV)
+_usr_bin_gcc-4.8:9013	0:04.57	1
+_usr_bin_fc-validate:63650	1:04.66	0
+zzuf[s=622,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52395	0:00.39	1
+_usr_bin_gv2gml:13447	0:44.83	0
+_usr_bin_pdfinfo:6517	2:10.62	0
+_usr_bin_expand:22506	0:43.18	0
+_usr_bin_uniq:19860	0:45.48	0
+_usr_bin_ruby1.9.1:2191	5:48.78	0
+zzuf[s=36,r=0.001:0.5]: signal 9 (memory exceeded?)
+_usr_bin_make:52047	0:00.33	1
+_usr_bin_pdftotext:1284	2:10.66	0
+_usr_bin_lav2yuv:39306	0:56.62	0
+_usr_bin_head:45933	0:41.66	0
+_usr_bin_strings:40281	0:51.53	0
+_usr_bin_wget:21288	0:53.84	0
+_usr_bin_du:10874	0:48.61	0

@@ -1,0 +1,1 @@
+echo $(cat $1 | awk '{ total += $1; count++ } END { print total/count }'), $(cat $1 | awk '{ total += $2; count++ } END { print total/count }'), $(cat $1 | awk '{ total += $3; count++ } END { print total/count }'), $(cat $1 | wc -l)

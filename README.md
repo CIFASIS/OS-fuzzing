@@ -1,7 +1,7 @@
 # Using Machine Learning to predict the outcome of a zzuf fuzzing campaign
 
-
-There are the scripts and data for the VDiscover tutorial to predict the outcome of zzuf. The process to reproduce the results roughly follow these scripts:
+This repository contains all the technical details of this tutorial on the use of [VDiscover](https://github.com/CIFASIS/VDiscover) including
+ scripts and some data. The process to reproduce the results roughly follow these scripts:
 
 0. init.sh
 1. get_testcases.sh (*)

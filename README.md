@@ -1,6 +1,6 @@
 # Using Machine Learning to predict the outcome of a zzuf fuzzing campaign
 
-This repository contains all the technical details of this tutorial on the use of [VDiscover](https://github.com/CIFASIS/VDiscover) including
+This repository contains all the technical details of [this tutorial](http://www.vdiscover.org/OS-fuzzing.html) on the use of [VDiscover](https://github.com/CIFASIS/VDiscover) including
  scripts and some data. The process to reproduce the results roughly follow these scripts:
 
 0. init.sh

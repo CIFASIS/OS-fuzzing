@@ -1,6 +1,6 @@
 # OS-fuzzing
 
-There are the scripts and data for the VDiscover tutorial to predict the outcome of zzuf. The process to reproduce the results roughtly follow these scripts:
+There are the scripts and data for the VDiscover tutorial to predict the outcome of zzuf. The process to reproduce the results roughly follow these scripts:
 
 0. init.sh
 1. get_testcases.sh (*)

@@ -1,4 +1,5 @@
-# OS-fuzzing
+# Using Machine Learning to predict the outcome of a zzuf fuzzing campaign
+
 
 There are the scripts and data for the VDiscover tutorial to predict the outcome of zzuf. The process to reproduce the results roughly follow these scripts:
 

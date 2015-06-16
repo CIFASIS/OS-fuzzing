@@ -1,4 +1,3 @@
-
 git clone https://github.com/CIFASIS/VDiscover.git
 cd VDiscover
 ./setup.py install --user

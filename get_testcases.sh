@@ -10,3 +10,4 @@ for bin in $(ls $@ | shuf); do
   fi
 done
 
+tcreator testcases.csv zzuf_testcases
